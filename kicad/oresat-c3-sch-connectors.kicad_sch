@@ -1062,10 +1062,6 @@
     (stroke (width 0) (type default))
     (uuid 562c7c82-c1be-4b7d-8015-42ca7b4422cd)
   )
-  (wire (pts (xy 196.85 176.53) (xy 201.93 176.53))
-    (stroke (width 0) (type default))
-    (uuid 60d05767-8ed7-465f-bb4d-b73007e6c402)
-  )
   (wire (pts (xy 91.44 91.44) (xy 101.6 91.44))
     (stroke (width 0) (type default))
     (uuid 6ab37d74-90ab-48b7-a59f-cc7211738394)
@@ -1301,10 +1297,6 @@
   (wire (pts (xy 91.44 177.8) (xy 116.84 177.8))
     (stroke (width 0) (type default))
     (uuid efecc6ab-fc82-4706-934f-5b0298f2565f)
-  )
-  (wire (pts (xy 191.77 181.61) (xy 191.77 184.15))
-    (stroke (width 0) (type default))
-    (uuid f15c822a-05a8-4645-a881-ed89d8e68080)
   )
   (wire (pts (xy 91.44 119.38) (xy 91.44 116.84))
     (stroke (width 0) (type default))
@@ -1580,13 +1572,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
   )
-  (global_label "L_BAND_RF" (shape output) (at 201.93 176.53 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid d61e5c64-d853-49b6-b47a-93f9bdf48543)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 215.1168 176.53 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-  )
   (global_label "DEPLOY_ANTENNAS" (shape input) (at 116.84 101.6 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d9c16b8d-ee4b-4e91-a1bc-b9a1153e0d23)
@@ -1809,32 +1794,6 @@
     )
   )
 
-  (symbol (lib_id "oresat-connectors:J-MOLEX-SMPM-73300-002X") (at 191.77 176.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 3822f1ad-743b-4229-857c-e303568fc3c1)
-    (property "Reference" "J3" (at 192.2526 168.91 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "733000020" (at 192.2526 171.45 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "oresat-connectors:J-MOLEX-SMPM-073300-002X" (at 191.77 170.18 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://tools.molex.com/pdm_docs/sd/733000020_sd.pdf" (at 191.77 167.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "SHLD" (uuid d1fb206a-5f0f-4ceb-b9a6-725de6c344a2))
-    (pin "SIG" (uuid c31e50d4-68a0-476b-b65f-e99c27dbb627))
-    (instances
-      (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-          (reference "J3") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 91.44 83.82 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 567852a2-a976-4ccf-a866-140e4dc6d476)
@@ -1888,7 +1847,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 214.63 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c883db4-4a58-4b3c-a791-1fc7cfa59be0)
-    (property "Reference" "R50" (at 214.63 86.36 90)
+    (property "Reference" "R48" (at 214.63 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10" (at 214.63 88.9 90)
@@ -1904,9 +1863,6 @@
     (pin "2" (uuid 221232a0-3bfe-4fc9-9a74-24dc097757e5))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c1da208-2d1c-4d05-9cc7-59584e50a6ac"
-          (reference "R50") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
           (reference "R48") (unit 1)
         )
@@ -2245,9 +2201,6 @@
     (pin "2" (uuid 395c3f22-2c5b-4b45-9f61-2eb683503d28))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0d3a1fa4-c9ee-4335-9068-a81ae0178f3f"
-          (reference "FB1") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
           (reference "FB1") (unit 1)
         )
@@ -2474,31 +2427,6 @@
       (project "oresat-c3"
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
           (reference "FID3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 191.77 184.15 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid f391b60f-c1bf-4f95-a8aa-45528cd53799)
-    (property "Reference" "#PWR0104" (at 191.77 190.5 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 191.77 187.96 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 191.77 184.15 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 191.77 184.15 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a1ab7990-5320-4639-b09a-2e2a5a9e7100))
-    (instances
-      (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-          (reference "#PWR0104") (unit 1)
         )
       )
     )

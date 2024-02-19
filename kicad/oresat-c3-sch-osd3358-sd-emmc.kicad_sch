@@ -4083,10 +4083,6 @@
     (stroke (width 0) (type default))
     (uuid 2244db97-26f1-4618-9fd4-0f996dea144b)
   )
-  (wire (pts (xy 146.05 106.68) (xy 162.56 106.68))
-    (stroke (width 0) (type default))
-    (uuid 2496a4a6-7c5e-40e0-bfcb-6d2086adda1e)
-  )
   (wire (pts (xy 57.15 106.68) (xy 67.31 106.68))
     (stroke (width 0) (type default))
     (uuid 250d2227-1741-4151-86e7-a6f137ea9720)
@@ -4366,10 +4362,6 @@
     (stroke (width 0) (type default))
     (uuid 73ac8582-b398-41bc-970e-de6cf1f89fd9)
   )
-  (wire (pts (xy 132.08 195.58) (xy 162.56 195.58))
-    (stroke (width 0) (type default))
-    (uuid 7917478b-a0bd-4bef-84bd-7df4f949beaa)
-  )
   (wire (pts (xy 274.32 124.46) (xy 274.32 119.38))
     (stroke (width 0) (type default))
     (uuid 791ef6e4-6f78-4903-b2e8-1064a89aa199)
@@ -4478,10 +4470,6 @@
   (wire (pts (xy 154.94 185.42) (xy 162.56 185.42))
     (stroke (width 0) (type default))
     (uuid 97069308-e531-4760-a9c8-7173ceef9c4c)
-  )
-  (wire (pts (xy 132.08 200.66) (xy 162.56 200.66))
-    (stroke (width 0) (type default))
-    (uuid 99df6edf-660b-44d9-80ad-5937baf1b7f8)
   )
   (wire (pts (xy 81.28 142.24) (xy 109.22 142.24))
     (stroke (width 0) (type default))
@@ -4632,10 +4620,6 @@
     (stroke (width 0) (type default))
     (uuid ba618f6e-e8cb-424c-a2d9-c25f691ff2e4)
   )
-  (wire (pts (xy 146.05 109.22) (xy 162.56 109.22))
-    (stroke (width 0) (type default))
-    (uuid bcbb2a9b-320f-46a8-9b39-ac38292f068d)
-  )
   (wire (pts (xy 114.3 152.4) (xy 162.56 152.4))
     (stroke (width 0) (type default))
     (uuid be06b929-3d63-406f-bbd5-825ba3787663)
@@ -4675,10 +4659,6 @@
   (wire (pts (xy 257.81 193.04) (xy 265.43 193.04))
     (stroke (width 0) (type default))
     (uuid c9bd3979-4d86-47ac-904e-109c93139a4f)
-  )
-  (wire (pts (xy 223.52 144.78) (xy 231.14 144.78))
-    (stroke (width 0) (type default))
-    (uuid c9ee4f4c-0bca-4344-8e8a-d2c35520179c)
   )
   (wire (pts (xy 300.99 129.54) (xy 300.99 127))
     (stroke (width 0) (type default))
@@ -5374,24 +5354,10 @@
     (uuid fffeb820-d333-4984-9ace-80fffa3c3f72)
   )
 
-  (global_label "SPI1_CS" (shape input) (at 132.08 195.58 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 035b6a64-076e-4d0d-8a85-50f6d08a233d)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 121.4333 195.58 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-  )
   (global_label "SPI0_MOSI" (shape input) (at 154.94 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 09452adf-b2a5-4174-ae72-613812d9ee57)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 142.1766 137.16 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-  )
-  (global_label "SPI1_MISO" (shape input) (at 146.05 106.68 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 0ff78428-25a0-41f0-b8aa-55f9e6ed4386)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 133.2866 106.68 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
@@ -5521,13 +5487,6 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "SPI1_SCLK" (shape input) (at 132.08 200.66 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid c99e3c65-b048-45c9-97c2-e2a29bd4cc55)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 119.1352 200.66 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-  )
   (global_label "CAN1_L" (shape input) (at 180.34 69.85 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d03039d0-be9a-43c9-833a-a1dceaafcf51)
@@ -5556,13 +5515,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
   )
-  (global_label "SPI1_MOSI" (shape input) (at 146.05 109.22 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid e4c32745-1e47-4759-a359-15eafc1ec355)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 133.2866 109.22 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-  )
   (global_label "UART0_TX" (shape input) (at 146.05 101.6 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid e6d6fee7-5f5c-4665-919d-b6987cb8e605)
@@ -5575,13 +5527,6 @@
     (uuid ee89e5bf-69e4-4531-b912-81c464df22fe)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 139.2738 172.72 0)
       (effects (font (size 1.27 1.27)) (justify right))
-    )
-  )
-  (global_label "LBAND_IRQ" (shape input) (at 231.14 144.78 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid f571da11-8259-4884-a797-6e8582088003)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 244.2059 144.78 0)
-      (effects (font (size 1.27 1.27)) (justify left))
     )
   )
   (global_label "FIRE_HELICAL_1" (shape output) (at 154.94 175.26 180) (fields_autoplaced)
@@ -5645,7 +5590,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 267.97 213.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08ff338e-153c-4398-a64f-69729a921fe7)
-    (property "Reference" "R85" (at 262.89 215.9 90)
+    (property "Reference" "R118" (at 262.89 215.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 269.24 215.9 90)
@@ -5661,9 +5606,6 @@
     (pin "2" (uuid 1dc278ee-eb1e-4f68-9f0d-1471ee010900))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/2134bb9a-062c-4e32-a41e-d15ce3545372"
-          (reference "R85") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "R118") (unit 1)
         )
@@ -5724,7 +5666,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c14f34c-4691-45d9-8220-575c79a1076f)
-    (property "Reference" "TP126" (at 236.22 101.6 90)
+    (property "Reference" "TP68" (at 236.22 101.6 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 101.6 0)
@@ -5739,9 +5681,6 @@
     (pin "1" (uuid 3322b18f-d79f-40f7-924b-af2eaf44a597))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP126") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP68") (unit 1)
         )
@@ -5777,7 +5716,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 203.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1e89ee3f-2d80-49e2-b8b2-3a0db8ae4827)
-    (property "Reference" "TP25" (at 236.22 203.2 90)
+    (property "Reference" "TP46" (at 236.22 203.2 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 203.2 0)
@@ -5792,9 +5731,6 @@
     (pin "1" (uuid c2fb6743-96e7-4d46-9017-272d338fc2da))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP25") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP46") (unit 1)
         )
@@ -6163,7 +6099,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 267.97 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3659b51a-0eb8-462a-a07e-40488734048f)
-    (property "Reference" "R85" (at 262.89 200.66 90)
+    (property "Reference" "R27" (at 262.89 200.66 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 269.24 200.66 90)
@@ -6179,9 +6115,6 @@
     (pin "2" (uuid 574b4780-5df3-4cfd-a5be-66c1b8e57104))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/2134bb9a-062c-4e32-a41e-d15ce3545372"
-          (reference "R85") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "R27") (unit 1)
         )
@@ -6502,7 +6435,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 267.97 208.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 645677b2-f5eb-4ab2-a803-42e7672554b9)
-    (property "Reference" "R85" (at 262.89 210.82 90)
+    (property "Reference" "R104" (at 262.89 210.82 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 269.24 210.82 90)
@@ -6518,9 +6451,6 @@
     (pin "2" (uuid b73103f2-d3b0-48c4-b20f-39077fb8c360))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/2134bb9a-062c-4e32-a41e-d15ce3545372"
-          (reference "R85") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "R104") (unit 1)
         )
@@ -6897,7 +6827,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 213.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 776bfc8b-aaaa-45a6-9cbd-dc528b04d47c)
-    (property "Reference" "TP86" (at 236.22 213.36 90)
+    (property "Reference" "TP65" (at 236.22 213.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 213.36 0)
@@ -6912,9 +6842,6 @@
     (pin "1" (uuid 93600fc0-cce6-4526-8986-8fe4345a5d48))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP86") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP65") (unit 1)
         )
@@ -7153,7 +7080,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 267.97 193.04 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid caa5800b-a26f-4260-afc3-16b48ab82ecf)
-    (property "Reference" "R85" (at 262.89 195.58 90)
+    (property "Reference" "R26" (at 262.89 195.58 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 267.97 195.58 90)
@@ -7169,9 +7096,6 @@
     (pin "2" (uuid 1cce6d09-9dc0-44de-9efa-46b691f9f5f8))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/2134bb9a-062c-4e32-a41e-d15ce3545372"
-          (reference "R85") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "R26") (unit 1)
         )
@@ -7182,7 +7106,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 215.9 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ccce376a-a6b1-478d-8780-d9b464d35bcc)
-    (property "Reference" "TP87" (at 236.22 215.9 90)
+    (property "Reference" "TP66" (at 236.22 215.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 215.9 0)
@@ -7197,9 +7121,6 @@
     (pin "1" (uuid d84d9a7f-854f-4d9d-b8d9-b1137f59591c))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP87") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP66") (unit 1)
         )
@@ -7236,7 +7157,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 200.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d975c2b1-1b7d-4996-814f-724100d8b2d9)
-    (property "Reference" "TP25" (at 236.22 200.66 90)
+    (property "Reference" "TP42" (at 236.22 200.66 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 200.66 0)
@@ -7251,9 +7172,6 @@
     (pin "1" (uuid 3ffa4c92-f244-47f8-be8a-72e394653187))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP25") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP42") (unit 1)
         )
@@ -7441,7 +7359,7 @@
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 229.87 210.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eea19069-871f-4b39-9683-9e34b15ba266)
-    (property "Reference" "TP25" (at 236.22 210.82 90)
+    (property "Reference" "TP64" (at 236.22 210.82 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Test-Point" (at 227.33 210.82 0)
@@ -7456,9 +7374,6 @@
     (pin "1" (uuid 21a3c7af-5bdf-4264-91ce-651ea884710c))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/0c732c1e-ab0d-41ac-9d77-9d7763333b6f"
-          (reference "TP25") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "TP64") (unit 1)
         )
@@ -7495,7 +7410,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 267.97 203.2 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f823cdd9-4f18-4c4f-b9b3-1b8f71a7cd2d)
-    (property "Reference" "R85" (at 262.89 205.74 90)
+    (property "Reference" "R90" (at 262.89 205.74 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 269.24 205.74 90)
@@ -7511,9 +7426,6 @@
     (pin "2" (uuid b60f99e5-474b-44ad-8498-40a55ed4b84e))
     (instances
       (project "oresat-c3"
-        (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/2134bb9a-062c-4e32-a41e-d15ce3545372"
-          (reference "R85") (unit 1)
-        )
         (path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
           (reference "R90") (unit 1)
         )
