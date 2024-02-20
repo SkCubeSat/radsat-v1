@@ -3243,13 +3243,6 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "RADIO_CURRENT" (shape input) (at 271.78 129.54 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid fddff9ce-f06f-4853-8755-a4314e9dcb8d)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.8049 129.54 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-  )
 
   (symbol (lib_id "Device:Crystal_GND24") (at 166.37 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)

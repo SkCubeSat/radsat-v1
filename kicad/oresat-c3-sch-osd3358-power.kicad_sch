@@ -3712,6 +3712,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7988f853-bc86-4b3f-ad7d-5080e445bc65)
   )
+  (text "REMEMBER TO CONNECT 5V HERE" (at 128.27 43.18 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid 79eb51fa-5faa-4a24-bfa2-4499419629f4)
+  )
   (text "RTC_KALDO_ENN is grounded thru a\n10K so that the internal RTC LDO \nis enabled and CAP_VDD_RTC does not\nneed to be connected to VDD_CORE."
     (at 167.64 236.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

@@ -3508,13 +3508,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
   )
-  (global_label "RADIO_ENABLE" (shape output) (at 186.69 175.26 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid d7f0205b-e2bf-419c-ab4d-25006edaa803)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 203.1425 175.26 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-  )
 
   (symbol (lib_id "oresat-misc:Test-Point-1mm-round") (at 107.95 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
