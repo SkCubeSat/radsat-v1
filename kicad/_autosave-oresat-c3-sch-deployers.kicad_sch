@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c66add62-2873-4abd-a40a-bba4b2e6c69f)
+
+  (paper "B")
+
+  (title_block
+    (title "OreSat C3: Deployers")
+    (date "2023-05-29")
+    (rev "6.1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "All resistors are 0603 1% AEC-Q200 unless marked.\nAll capacitors are 0603 AEC-Q200 Vw >= 16V X5R or better unless marked."
+    (at 115.57 261.62 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 34497163-6e3e-4c03-a9f1-47eeab4f4a2e)
+  )
+)
