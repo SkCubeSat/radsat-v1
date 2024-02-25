@@ -1963,6 +1963,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9ab6e820-a351-4103-a18b-dafaf97dc050)
   )
+  (text "PDB Reset" (at 325.12 157.48 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid a8c82e91-804e-43e5-9dec-886961a8d2e9)
+  )
 
   (label "WDT-VP" (at 186.69 132.08 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))

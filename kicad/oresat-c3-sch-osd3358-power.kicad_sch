@@ -2929,6 +2929,11 @@
     (uuid fe11c2ba-4a72-4621-adcc-ced685718928)
   )
 
+  (no_connect (at 265.43 78.74) (uuid 0fc91280-2782-4382-94c7-53ca869570bc))
+  (no_connect (at 260.35 71.12) (uuid 8589d8b6-5a86-4573-a21e-1d39006c48ec))
+  (no_connect (at 265.43 73.66) (uuid b8b52285-98c2-4958-9566-e62b5b9b48e5))
+  (no_connect (at 265.43 76.2) (uuid bd854ce9-3a0f-42ae-8d8e-005b6cec5c04))
+
   (wire (pts (xy 299.72 222.25) (xy 299.72 223.52))
     (stroke (width 0) (type default))
     (uuid 03472873-1dc1-48ae-9afc-c80af585418f)
@@ -3639,6 +3644,10 @@
   (text "1210" (at 168.91 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 18f86255-285e-4609-9c0d-f6cc5f8ae1f5)
+  )
+  (text "Providing DC to AC input?????" (at 181.61 46.99 0)
+    (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    (uuid 2990dbe1-0b49-48a1-924f-2171d9263b81)
   )
   (text "All resistors are 0603 1% AEC-Q200 unless marked.\nAll capacitors are 0603 AEC-Q200 Vw >= 16V X5R or better unless marked."
     (at 115.57 261.62 0)
