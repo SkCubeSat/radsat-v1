@@ -33,6 +33,7 @@
       2,
       3,
       4,
+      5,
       9,
       10,
       11,
@@ -60,6 +61,12 @@
     ],
     "visible_layers": "003f3fe_80000005",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "oresat-c3.kicad_prl",
