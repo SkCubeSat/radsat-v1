@@ -11851,6 +11851,10 @@
 		(uuid "37112928-af73-4547-b52a-6789638d3329")
 	)
 	(no_connect
+		(at 154.94 182.88)
+		(uuid "39cc614d-1d66-45da-9a65-1fe89f9f954c")
+	)
+	(no_connect
 		(at 223.52 144.78)
 		(uuid "45908b43-cbc1-4233-9456-20fb94762981")
 	)
@@ -11921,6 +11925,10 @@
 	(no_connect
 		(at 154.94 177.8)
 		(uuid "aa6ea93e-59cb-4aab-aa9f-82828aaa2b63")
+	)
+	(no_connect
+		(at 154.94 185.42)
+		(uuid "b0cb4944-b20d-4996-a636-fbfac8000e82")
 	)
 	(no_connect
 		(at 231.14 106.68)
@@ -15629,7 +15637,7 @@
 		)
 	)
 	(global_label "I2C1_SYS_SDA"
-		(shape input)
+		(shape bidirectional)
 		(at 154.94 137.16 180)
 		(fields_autoplaced yes)
 		(effects
@@ -15640,28 +15648,7 @@
 		)
 		(uuid "22d82926-b6d6-4d71-9945-b3fcea1bc1f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.6501 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OPD_nENABLE"
-		(shape output)
-		(at 154.94 185.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "80783611-1a93-4fc3-bb08-e3048b38d093")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.0319 185.42 0)
+			(at 137.5388 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15772,27 +15759,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "OPD_nFAULT"
-		(shape input)
-		(at 154.94 182.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "dddb3c4d-aa0e-43dc-b057-8b651a4fb582")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.5437 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
