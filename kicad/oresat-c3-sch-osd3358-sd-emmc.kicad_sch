@@ -11599,6 +11599,12 @@
 		)
 	)
 	(junction
+		(at 176.53 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "089e99e8-835a-4113-aed2-9c3faf419071")
+	)
+	(junction
 		(at 274.32 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11615,6 +11621,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "290395bf-8706-44fc-9c98-e04ef9945d3f")
+	)
+	(junction
+		(at 176.53 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ee73198-1fd3-4af3-b065-ff5703c69326")
 	)
 	(junction
 		(at 350.52 167.64)
@@ -12542,6 +12554,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 69.85) (xy 180.34 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "445e3d3f-9768-49d4-82d1-303d6585ddc0")
+	)
+	(wire
+		(pts
 			(xy 281.94 165.1) (xy 317.5 165.1)
 		)
 		(stroke
@@ -12852,7 +12874,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 64.77) (xy 180.34 64.77)
+			(xy 172.72 64.77) (xy 176.53 64.77)
 		)
 		(stroke
 			(width 0)
@@ -13242,7 +13264,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 69.85) (xy 180.34 69.85)
+			(xy 172.72 69.85) (xy 176.53 69.85)
 		)
 		(stroke
 			(width 0)
@@ -13429,6 +13451,16 @@
 			(type default)
 		)
 		(uuid "a5c4f4a1-fe98-4da5-8587-425cf48e4b77")
+	)
+	(wire
+		(pts
+			(xy 176.53 64.77) (xy 180.34 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a774073a-48bd-4a52-be30-4e67f60d0a2c")
 	)
 	(wire
 		(pts
@@ -20117,6 +20149,103 @@
 			(project "oresat-c3"
 				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
 					(reference "R43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 176.53 67.31 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ee58dff-8e5f-4f9a-ba40-dc072d70bcc2")
+		(property "Reference" "R1"
+			(at 179.07 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "120k"
+			(at 179.07 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Page" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Total Price" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62591ed3-a707-4407-bf89-423722abee1f")
+		)
+		(pin "2"
+			(uuid "f0ad3c74-926b-4293-9999-253c5f00ac72")
+		)
+		(instances
+			(project "oresat-c3"
+				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
+					(reference "R1")
 					(unit 1)
 				)
 			)

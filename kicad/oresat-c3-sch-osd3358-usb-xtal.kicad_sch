@@ -9275,27 +9275,6 @@
 			)
 		)
 	)
-	(global_label "OPD_CURRENT"
-		(shape input)
-		(at 271.78 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2da4ece8-7665-4a7a-bcfe-e65f1c185c8c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 288.1115 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "nRESET"
 		(shape input)
 		(at 158.75 208.28 180)
