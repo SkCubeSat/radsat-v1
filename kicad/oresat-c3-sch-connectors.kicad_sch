@@ -2849,10 +2849,6 @@
 		(uuid "2454df19-e521-4163-8ada-3860e48f454f")
 	)
 	(no_connect
-		(at 173.99 78.74)
-		(uuid "246a3e0f-aee5-410d-a58f-d80ebd3d1a99")
-	)
-	(no_connect
 		(at 113.03 110.49)
 		(uuid "27b6879c-3ec7-4e93-ac9a-b692fce5cf70")
 	)
@@ -3492,6 +3488,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 76.2) (xy 173.99 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c648b6db-1217-4f06-b118-b4a37d3da476")
+	)
+	(wire
+		(pts
 			(xy 130.81 80.01) (xy 125.73 80.01)
 		)
 		(stroke
@@ -3519,16 +3525,6 @@
 			(type default)
 		)
 		(uuid "d76a9b85-5a72-4dc0-8518-5d781eb73201")
-	)
-	(wire
-		(pts
-			(xy 170.18 76.2) (xy 173.99 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc6c147b-974b-4218-81c4-644dda55689a")
 	)
 	(wire
 		(pts
@@ -3639,7 +3635,7 @@
 	)
 	(text "Called C3-UART-TX"
 		(exclude_from_sim no)
-		(at 132.08 77.47 0)
+		(at 128.524 78.232 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3861,6 +3857,27 @@
 			)
 		)
 	)
+	(global_label "ADCS_BOOT_CONTROL"
+		(shape bidirectional)
+		(at 173.99 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2fdce4b1-ddca-4b55-ad59-006a4f74712b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.6944 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "CAN1L-"
 		(shape input)
 		(at 110.49 59.69 180)
@@ -3874,6 +3891,27 @@
 		(uuid "500be9ef-8a26-4b43-a0be-07cac449e015")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 100.0057 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "ADCS_ENABLE_CONTROL"
+		(shape bidirectional)
+		(at 172.72 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "59e8fdda-82a7-4008-bb6d-fa5638782351")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.3078 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4435,7 +4473,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "192c7fbc-275f-4ee1-85fa-fbd4672268d4")
 		(property "Reference" "#5V01"
 			(at 165.1 88.9 0)
@@ -4447,7 +4484,7 @@
 			)
 		)
 		(property "Value" "5V"
-			(at 165.1 80.01 0)
+			(at 165.1 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6023,72 +6060,6 @@
 			(project "oresat-c3"
 				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
 					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 170.18 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec3ee1e9-2784-4cdf-b516-b0de05c5e579")
-		(property "Reference" "#PWR021"
-			(at 170.18 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.18 80.3355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 170.18 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8e12a4f9-7ade-4d35-9b9b-242885834b10")
-		)
-		(instances
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
