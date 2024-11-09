@@ -1,4 +1,4 @@
-24425023446290744
+24524299859935100
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97964,13 +97964,13 @@ Varistor VF
 0
 2
 2
-logos
-radsatsk2-logo
+oresat-connectors
+132134-10 SMA
 
 
 0
-0
-0
+2
+2
 oresat-connectors
 CF-SFM-110-X1-XXX-D-LC
 0.05"X0.05" SOCKET STRIP DOUBLE ROW ASSEMBLY.{return}MANUFACTURER: SAMTEC.
@@ -97978,6 +97978,13 @@ CF-SFM-110-X1-XXX-D-LC
 0
 22
 22
+oresat-connectors
+CONN_SM06B-SRSS-TB_JST
+
+
+0
+8
+8
 oresat-connectors
 DSUB-37_Male_Horizontal_P2.77x2.84mm_MountingHoles
 37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
@@ -98005,7 +98012,7 @@ J-Harwin-M55-60X1242R
 
 0
 16
-13
+16
 oresat-connectors
 J-Harwin-M55-7001242R
 
@@ -98154,6 +98161,13 @@ M55-7101242R
 16
 13
 oresat-connectors
+PHOENIX_1995499
+
+
+0
+2
+2
+oresat-connectors
 PhoenixContact_GMSTBA_2,5_3-G-7,62_1x03_P7.62mm_Horizontal
 Generic Phoenix Contact connector footprint for: GMSTBA_2,5/3-G-7,62; number of pins: 03; pin pitch: 7.62mm; Angled || order number: 1766246 12A 630V
 phoenix_contact connector GMSTBA_01x03_G_7.62mm
@@ -98175,12 +98189,40 @@ phoenix_contact connector MC_01x08_GF_5.08mm_MH
 8
 8
 oresat-connectors
+SAMTEC-MMS-104-02-X-SH
+translated Allegro footprint
+
+0
+8
+8
+oresat-connectors
+SMA 142-0711-201
+142-0711-201
+Connector
+0
+3
+3
+oresat-connectors
+U.FL
+
+
+0
+4
+4
+oresat-connectors
 U.FL_Molex_MCRF_73412-0110_Vertical
 Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
 mcrf hirose ufl u.fl microcoaxial
 0
 4
 2
+oresat-connectors
+USB-MINIB
+
+
+0
+9
+6
 oresat-connectors
 m55-6001642
 
@@ -98189,8 +98231,29 @@ m55-6001642
 20
 17
 oresat-diodes
+Cree-LED
+
+
+0
+6
+3
+oresat-diodes
 D-SOD323-R
 <b>SOD323 Reflow soldering</b> Philips SC01_Mounting_1996.pdf
+
+0
+2
+2
+oresat-diodes
+Diode TSM MURS315SH
+
+
+0
+2
+2
+oresat-diodes
+GVBL-S12SD
+
 
 0
 2
@@ -98203,9 +98266,58 @@ LED-0603
 2
 2
 oresat-diodes
+LED-Everlight-1414-UVA
+LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf
+LED Cree XP-G
+0
+6
+3
+oresat-diodes
+LED-Everlight-1414-UVC
+
+
+0
+6
+3
+oresat-diodes
 LED_0603_1608Metric
 LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
+0
+2
+2
+oresat-diodes
+MTMD142345PDT38
+
+
+0
+8
+8
+oresat-diodes
+PDB-C171
+
+PDB-C171SM 
+0
+2
+2
+oresat-diodes
+SOD123
+<b>SOD123</b> Popular diode package{return}<br>Slightly larger than e1206.
+
+0
+2
+2
+oresat-diodes
+SWIR Diode Cover
+
+
+0
+0
+0
+oresat-diodes
+Würth Elektronik UV LED 1411 (3528 metric)
+
+
 0
 2
 2
@@ -98238,6 +98350,13 @@ logo-small
 0
 0
 oresat-ics
+16-SSOP
+
+
+0
+16
+16
+oresat-ics
 856930-saw-filter
 
 
@@ -98266,6 +98385,13 @@ BP0805
 4
 4
 oresat-ics
+DBV6-SLOT
+**README I AM IMPORTANT**{return}This variant of the chip is specifically designed to be soldered upside down with the package fitting inside the board so that it will be able to get a more accurate reading of the actual solar array temperature.  The pinouts are flipped to accomodate this.  DO NOT use if the part is to be placed rightside up.
+
+0
+6
+6
+oresat-ics
 DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias0.3mm
 DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -98279,6 +98405,13 @@ Infineon-PG-TSLP-7-LNA
 0
 7
 7
+oresat-ics
+LGA-16(3X3)
+
+
+0
+16
+16
 oresat-ics
 LINEAR-MSOP-8-AND-MAXIM-UMAX-8-21-0036
 8-pin MSOP package from Linear / ADI
@@ -98294,12 +98427,33 @@ MAC-24+
 10
 10
 oresat-ics
+MAX892
+
+MAX892LEUA+T 
+0
+8
+8
+oresat-ics
 QPC1022
 Qorvo 9 Pin 1.1 x 1.5 mm LGA Package
 
 0
 9
 9
+oresat-ics
+QPQ1907
+
+
+0
+5
+5
+oresat-ics
+QPQ1907SR
+QPQ1907SR-2
+Filter
+0
+5
+5
 oresat-ics
 SM3030-6
 RFMI SM3030-6 footprint for SAW filters
@@ -98308,12 +98462,40 @@ RFMI SM3030-6 footprint for SAW filters
 6
 6
 oresat-ics
+SOP100P600X165-11N
+LK,10-Lead eSOIC
+Integrated Circuit
+0
+11
+11
+oresat-ics
+SOT-23 LP2985
+
+
+0
+5
+5
+oresat-ics
 SOT23
 
 
 0
 3
 3
+oresat-ics
+SOT23-8_TI-DCN
+
+
+0
+8
+8
+oresat-ics
+TQP3M9037
+8 Pin 2X2 mm DFN
+Integrated Circuit
+0
+9
+9
 oresat-ics
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -98412,13 +98594,6 @@ X_TCXO_SMD_Taitien_2.5x2.0mm
 0
 4
 4
-oresat-mcu
-Adafruit-Trinket
-
-
-0
-10
-10
 oresat-misc
 18650
 
@@ -98455,6 +98630,41 @@ D2F-L3-D-HORIZONTAL-R
 3
 3
 oresat-misc
+D6R90_CNK
+
+D6R90F2LFS 
+0
+4
+4
+oresat-misc
+DBV5 SN74LVC1G3T2Q
+
+
+0
+5
+5
+oresat-misc
+ECS-160-10-36Q-ES-TR
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+oresat-misc
+GHI2_USB_HOST_HORIZONTAL_W_CHASSIS_GND
+
+
+0
+6
+6
+oresat-misc
+Hole-1.5mm-NPTH
+
+
+0
+0
+0
+oresat-misc
 Hole-1.6mm-NPTH
 
 
@@ -98482,6 +98692,20 @@ JP-SOLDER-2way-HP
 0
 3
 3
+oresat-misc
+KXOB101K08TF
+
+
+0
+2
+2
+oresat-misc
+KXOB2502X8F
+
+
+0
+2
+2
 oresat-misc
 Laird_Technologies_BMI-S-202-F_16.50x16.50mm
 Laird Technologies BMI-S-202-F Shielding Cabinet Two Piece SMD 16.50x16.50mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)
@@ -98511,6 +98735,34 @@ McMaster Carr 94100A150 -- PEMSERT M2 threaded insert for >= 1.53 mm PCBs. ote t
 0
 0
 oresat-misc
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+oresat-misc
+MountingHole_3mm_no_copper
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
+0
+0
+0
+oresat-misc
+PD2328J5050S2HF
+PD2328J5050S2HF-3
+Integrated Circuit
+0
+6
+6
+oresat-misc
+RASP_PI_0W
+
+
+0
+40
+40
+oresat-misc
 RPi_Pico_TH
 
 
@@ -98539,6 +98791,13 @@ SW-D2F-L3-D-HORIZONTAL-R
 3
 3
 oresat-misc
+SW_EG1271
+
+
+0
+6
+6
+oresat-misc
 SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
 solder jumper open
@@ -98553,7 +98812,21 @@ net tie solder jumper bridged
 3
 3
 oresat-misc
+Taoglas-GPS-Patch-Antenna
+
+
+0
+1
+1
+oresat-misc
 TestPoint-0.75mm-th
+
+
+0
+1
+1
+oresat-misc
+TestPoint-MinTH
 
 
 0
@@ -98791,6 +99064,13 @@ capacitor
 4
 2
 oresat-passives
+744042100
+
+
+0
+2
+2
+oresat-passives
 CRYSTAL-5X3.2-4SMD
 
 
@@ -98805,9 +99085,51 @@ CRYSTAL_3.2X1.5
 2
 2
 oresat-passives
+DP3T_OS203011MV9QS1_CNK
+
+OS203011MV9QS1 
+0
+10
+10
+oresat-passives
+DPDT slide switch 6 pin
+
+
+0
+6
+6
+oresat-passives
+EG2209 DPDT
+EG2209
+Switch
+0
+6
+6
+oresat-passives
+IND_1226AS-H-1R0N=P2
+
+
+0
+2
+2
+oresat-passives
+L3216C
+<b>INDUCTOR</b>
+
+0
+2
+2
+oresat-passives
 L_ECS-MPI4040
 Inductor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal
 inductor
+0
+2
+2
+oresat-passives
+Littelfuse 155900DR
+01550900DR-2
+Fuse
 0
 2
 2
@@ -98840,12 +99162,26 @@ R-PAC100-FOR-MELTWIRE
 4
 2
 oresat-passives
+SW_CK_JS202011CQN_DPDT_Straight
+C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+oresat-passives
 c_0603-SMALL
 0603 (metric 1608) tight 'IPC-C' without silkscreenIn house package for minimum spacing based on IPC-7351B.This package is identical to 0603-C, but has its tPlace silkscreen layer removed.
 
 0
 2
 2
+oresat-pcbs
+Adafruit-Trinket
+
+
+0
+10
+10
 oresat-pcbs
 ORESAT-CARD-V1.3-0RF
 
@@ -98896,12 +99232,33 @@ Oresat Card with 3x SMPM RF connectors
 0
 0
 oresat-pcbs
+ORESAT-SOLAR-BOARD-V4
+
+
+0
+0
+0
+oresat-pcbs
 STLINK-V3MOS
 STLink v3 SWD programmer and VCP with multiple serial bridges for bootloading
 
 0
 32
 32
+oresat-pcbs
+UMFT234XF
+
+
+0
+10
+10
+oresat-pcbs
+vulCAN
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+0
+0
 oresat-qrcodes
 uniclogs-upd
 
