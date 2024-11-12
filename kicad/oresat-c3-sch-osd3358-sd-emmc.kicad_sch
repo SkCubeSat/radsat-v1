@@ -11683,6 +11683,12 @@
 		(uuid "576681ea-423e-4641-a953-4a99d6425775")
 	)
 	(junction
+		(at 125.73 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58a300cf-a767-432e-a576-1146ebf47a55")
+	)
+	(junction
 		(at 350.52 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11863,10 +11869,6 @@
 		(uuid "ffcf3264-d5e5-492e-849d-45570740a648")
 	)
 	(no_connect
-		(at 162.56 200.66)
-		(uuid "0b33be19-3e00-424e-8231-16c2250c783a")
-	)
-	(no_connect
 		(at 154.94 187.96)
 		(uuid "26e09bf1-002e-4f94-ad51-fadcf72549fe")
 	)
@@ -11925,10 +11927,6 @@
 	(no_connect
 		(at 232.41 114.3)
 		(uuid "6d6d91dd-20e1-48d6-b448-cee649a8d8df")
-	)
-	(no_connect
-		(at 154.94 180.34)
-		(uuid "765ebbdc-2a74-40a9-afae-b5aa044c77ba")
 	)
 	(no_connect
 		(at 231.14 134.62)
@@ -13146,6 +13144,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 200.66) (xy 125.73 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "822e5ae9-2fb9-474c-ae62-8c3912ae1ba9")
+	)
+	(wire
+		(pts
 			(xy 127 119.38) (xy 162.56 119.38)
 		)
 		(stroke
@@ -13436,6 +13444,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 180.34) (xy 125.73 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e061bab-90fc-4755-8af6-da3e5e361331")
+	)
+	(wire
+		(pts
 			(xy 355.6 167.64) (xy 350.52 167.64)
 		)
 		(stroke
@@ -13573,6 +13591,16 @@
 			(type default)
 		)
 		(uuid "adabee11-e06c-412a-a117-1ecac30e005a")
+	)
+	(wire
+		(pts
+			(xy 125.73 200.66) (xy 162.56 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adcaf0cc-70d3-406e-a444-50321be0cacd")
 	)
 	(wire
 		(pts
@@ -13863,16 +13891,6 @@
 			(type default)
 		)
 		(uuid "ce0b122e-27d4-4861-bbc6-b66ea558bd08")
-	)
-	(wire
-		(pts
-			(xy 154.94 180.34) (xy 162.56 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf0ff146-ef4d-402a-8324-a68212646cb9")
 	)
 	(wire
 		(pts
@@ -14323,6 +14341,16 @@
 			(type default)
 		)
 		(uuid "f3b13b1e-916a-4f78-8a4e-64b2c4eb6fad")
+	)
+	(wire
+		(pts
+			(xy 125.73 180.34) (xy 162.56 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f44fb4cf-a1ea-485c-ba50-5f9d4ce91768")
 	)
 	(wire
 		(pts
@@ -15932,6 +15960,27 @@
 		(uuid "e6d6fee7-5f5c-4665-919d-b6987cb8e605")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 134.1333 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "ADCS_UART_GNSS"
+		(shape output)
+		(at 118.11 200.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed7b49b1-f712-451c-92c2-98b898a49439")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.6753 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
