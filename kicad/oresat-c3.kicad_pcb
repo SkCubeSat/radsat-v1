@@ -61150,6 +61150,28 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "RX"
+		(at 69.2 103.6 0)
+		(layer "F.SilkS")
+		(uuid "b9767775-47de-4c6f-a9f4-d38fbcd7b03d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "TX"
+		(at 69.15 101.25 0)
+		(layer "F.SilkS")
+		(uuid "c8c05adf-4bd4-4d69-a491-1075fd20da1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "HW ID"
 		(at 83.6 113.7 90)
 		(layer "F.SilkS")
