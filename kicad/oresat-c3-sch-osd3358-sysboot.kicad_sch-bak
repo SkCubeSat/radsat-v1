@@ -8435,10 +8435,6 @@
 		(uuid "3ce94d74-8958-4699-a573-861b6f4859a7")
 	)
 	(no_connect
-		(at 186.69 180.34)
-		(uuid "3e4b895b-80ad-4e9b-95a4-861633d651e6")
-	)
-	(no_connect
 		(at 213.36 120.65)
 		(uuid "5905cec5-ac59-4b57-9a77-58256a4e6a6f")
 	)
@@ -10119,6 +10115,27 @@
 		(uuid "4f681381-cc26-4dce-b983-7ec950a83c7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 168.9319 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "PET_WDT"
+		(shape output)
+		(at 186.69 180.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "948a20f1-d8ce-4871-9366-86ad3139d8b0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 197.639 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

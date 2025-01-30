@@ -2905,6 +2905,10 @@
 		(uuid "52f3f81b-d6f1-446c-8b2a-6bb66fa67067")
 	)
 	(no_connect
+		(at 130.81 85.09)
+		(uuid "53874bb1-db1a-4d4b-aabd-c5d486a4c739")
+	)
+	(no_connect
 		(at 113.03 87.63)
 		(uuid "53b9910a-a53e-46cc-9f0a-15e50cc779a3")
 	)
@@ -4149,27 +4153,6 @@
 		(uuid "ef9979be-f4db-41c0-8173-d1c505aa1b8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 140.8709 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "ORESAT_nSD"
-		(shape input)
-		(at 130.81 85.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f63f3676-2fa8-4079-b095-1633aac6f8ac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.3271 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
