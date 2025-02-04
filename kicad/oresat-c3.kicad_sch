@@ -158,6 +158,45 @@
 		)
 	)
 	(sheet
+		(at 241.3 109.22)
+		(size 54.864 6.35)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34cfbc26-5d78-4591-9d1f-0b27f2515f88")
+		(property "Sheetname" "MRAM and SPI Peripherals"
+			(at 242.57 114.046 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+					(thickness 0.508)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mram-and-spi.kicad_sch"
+			(at 241.3 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "oresat-c3"
+				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 241.3 92.71)
 		(size 52.07 6.35)
 		(stroke

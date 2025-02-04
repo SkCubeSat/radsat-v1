@@ -1049,6 +1049,10 @@
       "OSD3358: SIP E + F"
     ],
     [
+      "34cfbc26-5d78-4591-9d1f-0b27f2515f88",
+      "MRAM and SPI Peripherals"
+    ],
+    [
       "80f02433-745c-4401-b985-fcfd89ff5669",
       "OPD and I2C Peripherals"
     ],
