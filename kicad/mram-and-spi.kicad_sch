@@ -954,6 +954,12 @@
 		(uuid "7d1ec466-8de4-4290-baf2-0744a6e2cf49")
 	)
 	(junction
+		(at 158.75 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "862c959f-fc0c-45bb-b444-bfd664b64980")
+	)
+	(junction
 		(at 113.03 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1016,6 +1022,16 @@
 			(type default)
 		)
 		(uuid "287298ae-4b23-4e2f-9110-eff4231da73b")
+	)
+	(wire
+		(pts
+			(xy 158.75 63.5) (xy 170.18 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ab6487e-c676-4ef7-8b97-0d6a1882c961")
 	)
 	(wire
 		(pts
@@ -1438,6 +1454,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 170.18 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14d690db-86b2-424a-a445-43aa17dd15ab")
+		(property "Reference" "C2"
+			(at 172.72 64.7762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 172.72 67.3162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 170.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 170.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "388a8e2d-e084-465c-a55d-bd821df29aed")
+		)
+		(pin "2"
+			(uuid "178f348a-70c9-4240-8cd4-db447a8a9de2")
+		)
+		(instances
+			(project "oresat-c3"
+				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/34cfbc26-5d78-4591-9d1f-0b27f2515f88"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 158.75 68.58 0)
 		(unit 1)
@@ -1563,6 +1649,71 @@
 			(project ""
 				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/34cfbc26-5d78-4591-9d1f-0b27f2515f88"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 170.18 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "547693db-660d-450c-90a3-d1cc86ec32e6")
+		(property "Reference" "#PWR07"
+			(at 170.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 170.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70405280-5b0b-493d-a66e-51c0fb529ed6")
+		)
+		(instances
+			(project "oresat-c3"
+				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/34cfbc26-5d78-4591-9d1f-0b27f2515f88"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
