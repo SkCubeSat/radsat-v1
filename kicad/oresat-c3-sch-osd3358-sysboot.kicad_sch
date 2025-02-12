@@ -10106,7 +10106,7 @@
 		)
 		(uuid "5981b8b0-9428-4671-930b-8d408873fad5")
 	)
-	(global_label "CAN2_L-"
+	(global_label "CAN2-"
 		(shape input)
 		(at 157.48 92.71 0)
 		(fields_autoplaced yes)
@@ -10118,7 +10118,7 @@
 		)
 		(uuid "4f681381-cc26-4dce-b983-7ec950a83c7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.9319 92.71 0)
+			(at 166.9362 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10127,7 +10127,7 @@
 			)
 		)
 	)
-	(global_label "CAN2_H+"
+	(global_label "CAN2+"
 		(shape input)
 		(at 157.48 87.63 0)
 		(fields_autoplaced yes)
@@ -10139,7 +10139,7 @@
 		)
 		(uuid "9a21bab5-3324-40e0-b33e-d51b55080735")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 169.2343 87.63 0)
+			(at 166.9362 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
