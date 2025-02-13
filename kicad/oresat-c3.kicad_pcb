@@ -54622,7 +54622,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ADCS\nB_CTL"
+	(gr_text "ADCS\nE_CTL"
 		(at 98.375 48.2 0)
 		(layer "F.SilkS")
 		(uuid "7dce1aab-d239-4dbb-9381-70714f7c7f83")
@@ -54678,7 +54678,7 @@
 			)
 		)
 	)
-	(gr_text "ADCS\nC_CTL"
+	(gr_text "ADCS\nB_CTL"
 		(at 100.875 48.175 0)
 		(layer "F.SilkS")
 		(uuid "9e9a10e3-8118-40f5-bf61-bd79d0dfa223")
