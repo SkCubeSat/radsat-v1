@@ -39518,12 +39518,12 @@
 			(effects
 				(font
 					(size 0.5 0.5)
-					(thickness 0.127)
+					(thickness 0.125)
 					(bold yes)
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 6.35 13.05 90)
 			(layer "F.Fab")
 			(uuid "72edced9-bdf6-498e-a883-44d8a53901e2")
@@ -39536,7 +39536,7 @@
 			)
 		)
 		(property "Footprint" "oresat-ics:U-Octavo-OSD335X-BGA-256"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4bdd3a44-97d0-4056-b318-79403580710e")
@@ -39548,7 +39548,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bde1ca51-5bcb-4a18-b06d-f54eb575f179")
@@ -39583,7 +39583,7 @@
 				)
 			)
 		)
-		(property "MPN" "OSD3358-512M-BSM"
+		(property "MPN" "OSD3358-512M-ISM"
 			(at 4.2 193.6 0)
 			(layer "F.Fab")
 			(hide yes)
