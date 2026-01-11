@@ -1,0 +1,146 @@
+(footprint "CRYSTAL-5X3.2-4SMD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.1 2.7 0)
+		(layer "F.SilkS")
+		(uuid "2787acba-f802-4b1f-bc5e-0e0791258d85")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "CRYSTAL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0dcaeb3-493c-4daa-8e53-e3d17b28cece")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "617e69a5-22ba-4c76-b745-6dab446a9669")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e118d65f-73d5-448a-8c4e-7b0aef220501")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.65 0.25)
+		(end -2.65 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ba08c2b-a12b-443e-ba52-615f47ead8a2")
+	)
+	(fp_line
+		(start -0.8 -1.75)
+		(end 0.8 -1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce53177a-fce6-4e43-9e88-4d5df8752834")
+	)
+	(fp_line
+		(start -0.8 1.725)
+		(end 0.8 1.725)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dd370c6c-75bf-4d6f-bdd9-8670d7c93484")
+	)
+	(fp_line
+		(start 2.65 0.25)
+		(end 2.65 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aef4e207-fc5d-44aa-9cfd-2362fcbb278b")
+	)
+	(fp_circle
+		(center -3.2 2.2)
+		(end -3 2.2)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "70304438-c2ce-4747-ae5a-1e25163c2b97")
+	)
+	(pad "1" smd rect
+		(at -1.85 1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "c99529ab-3c77-4370-a616-9ca35deadf0f")
+	)
+	(pad "2" smd rect
+		(at 1.85 1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "83a2e488-195b-4f79-9e05-0e8b4eb0b448")
+	)
+	(pad "3" smd rect
+		(at 1.85 -1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "f1603ca2-7075-49b2-8324-9957eea4ec99")
+	)
+	(pad "4" smd rect
+		(at -1.85 -1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "f68b7e0c-8776-47ae-bdb8-e7cb4c6863c3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/oresat-3dmodels/ECS-240-12-30BQ-AEN-TR.STP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
