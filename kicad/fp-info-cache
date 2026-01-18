@@ -1,4 +1,4 @@
-26571600403958797
+26573369176826172
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -8637,6 +8637,13 @@ connector barrel jack
 0
 3
 3
+Connector_CSKB
+RHDR52W64P254_2X26_6654X495X1135P
+ESQ-126-39-G-D-001
+Connector
+0
+52
+52
 Connector_Card
 CF-Card_3M_N7E50-A516xx-30
 Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
