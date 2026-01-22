@@ -13010,12 +13010,6 @@
 		(uuid "e94a2dcc-59b0-4991-b25a-1aac86cf05d3")
 	)
 	(junction
-		(at 229.87 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea6eecd7-9277-48ef-b1b3-3d240f31969f")
-	)
-	(junction
 		(at 269.24 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13892,16 +13886,6 @@
 			(type default)
 		)
 		(uuid "54ba7d5a-572f-4a44-bdcd-ec8821f6eed5")
-	)
-	(wire
-		(pts
-			(xy 240.03 200.66) (xy 240.03 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "554c4f42-fae8-4727-ae81-f028811491df")
 	)
 	(wire
 		(pts
@@ -15135,16 +15119,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 200.66) (xy 229.87 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d33261be-5fc4-471b-83c8-8a7ae184f93f")
-	)
-	(wire
-		(pts
 			(xy 238.76 160.02) (xy 266.7 160.02)
 		)
 		(stroke
@@ -15472,16 +15446,6 @@
 			(type default)
 		)
 		(uuid "ef494c3b-8b2c-48fb-acc7-56214271d737")
-	)
-	(wire
-		(pts
-			(xy 223.52 200.66) (xy 229.87 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0ee412f-8663-4648-9730-2bc3bc441892")
 	)
 	(wire
 		(pts
@@ -16158,27 +16122,6 @@
 		(uuid "e17009fb-5186-487e-850c-7b161fbb0725")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 189.7962 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "ADCS_BOOT_CONTROL"
-		(shape bidirectional)
-		(at 240.03 222.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e503b983-3ac8-4520-a521-514d1edb6efd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.3256 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21620,99 +21563,6 @@
 			(project "oresat-c3"
 				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
 					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "oresat-misc:Test-Point-1mm-round")
-		(at 229.87 200.66 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d975c2b1-1b7d-4996-814f-724100d8b2d9")
-		(property "Reference" "TP42"
-			(at 236.22 200.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Test-Point"
-			(at 227.33 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "oresat-misc:TestPoint_Pad_D1.0mm"
-			(at 219.71 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 229.87 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Page" ""
-			(at 229.87 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 229.87 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Total Price" ""
-			(at 229.87 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3ffa4c92-f244-47f8-be8a-72e394653187")
-		)
-		(instances
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/f3d147ad-4cea-4d77-ae60-95882b03454e"
-					(reference "TP42")
 					(unit 1)
 				)
 			)
