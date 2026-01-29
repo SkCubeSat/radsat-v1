@@ -3699,7 +3699,7 @@
 			)
 		)
 	)
-	(global_label "OPD_SDA"
+	(global_label "I2C1_SDA"
 		(shape bidirectional)
 		(at 278.13 223.52 0)
 		(fields_autoplaced yes)
@@ -3711,7 +3711,7 @@
 		)
 		(uuid "3664af03-b854-4bbb-9923-eea535fececb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.5533 223.52 0)
+			(at 291.056 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3825,7 +3825,7 @@
 			)
 		)
 	)
-	(global_label "OPD_SCL"
+	(global_label "I2C1_SCL"
 		(shape output)
 		(at 278.13 219.71 0)
 		(fields_autoplaced yes)
@@ -3837,7 +3837,7 @@
 		)
 		(uuid "c95d2c9c-bd05-464b-bb79-340b382f5551")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 289.3815 219.71 0)
+			(at 289.8842 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)

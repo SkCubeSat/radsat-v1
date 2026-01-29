@@ -2335,7 +2335,7 @@
 	)
 	(text "Called C3-UART-TX"
 		(exclude_from_sim no)
-		(at 136.398 79.502 0)
+		(at 151.384 82.296 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2394,7 +2394,7 @@
 	)
 	(text "Called C3-UART-RX"
 		(exclude_from_sim no)
-		(at 134.874 88.138 0)
+		(at 151.892 84.582 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2614,6 +2614,26 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 101.6) (xy 106.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09075439-d770-4675-aa27-b1ef0e4be184")
+	)
+	(wire
+		(pts
+			(xy 101.6 116.84) (xy 106.68 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b786d43-8843-4546-84c0-5770847344dc")
+	)
+	(wire
+		(pts
 			(xy 289.56 102.87) (xy 292.1 102.87)
 		)
 		(stroke
@@ -2634,6 +2654,26 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 99.06) (xy 106.68 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1996eb3d-b123-4c19-861d-4f37b9071d40")
+	)
+	(wire
+		(pts
+			(xy 129.54 119.38) (xy 133.35 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c4aa597-f95f-468e-a7b9-5697847ec342")
+	)
+	(wire
+		(pts
 			(xy 289.56 97.79) (xy 292.1 97.79)
 		)
 		(stroke
@@ -2651,6 +2691,26 @@
 			(type default)
 		)
 		(uuid "236296c5-0374-4149-acd4-6e7c7bb1e491")
+	)
+	(wire
+		(pts
+			(xy 101.6 119.38) (xy 106.68 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25910916-0a4a-44ea-88cc-4cb289d73f54")
+	)
+	(wire
+		(pts
+			(xy 102.87 86.36) (xy 106.68 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26a6ddb1-ed62-4c24-84ca-4e823287e5f4")
 	)
 	(wire
 		(pts
@@ -2754,6 +2814,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 66.04) (xy 106.68 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fb18483-3c36-4879-b05f-8feedb02f263")
+	)
+	(wire
+		(pts
 			(xy 289.56 105.41) (xy 292.1 105.41)
 		)
 		(stroke
@@ -2771,6 +2841,16 @@
 			(type default)
 		)
 		(uuid "68f8d95f-ab6f-4b52-9051-f9331a3eed62")
+	)
+	(wire
+		(pts
+			(xy 102.87 109.22) (xy 106.68 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e65f9b6-975f-4c45-b1ce-91b096fe9729")
 	)
 	(wire
 		(pts
@@ -2794,6 +2874,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 111.76) (xy 106.68 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f1a714e-8a4b-44c0-a50b-449aa997dca1")
+	)
+	(wire
+		(pts
 			(xy 186.69 68.58) (xy 189.23 68.58)
 		)
 		(stroke
@@ -2801,6 +2891,26 @@
 			(type default)
 		)
 		(uuid "805bc8fe-3429-4c32-abe5-d958aa843e67")
+	)
+	(wire
+		(pts
+			(xy 129.54 104.14) (xy 133.35 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8539852e-3169-477c-bb5d-2d06001544bf")
+	)
+	(wire
+		(pts
+			(xy 102.87 78.74) (xy 106.68 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86a6b901-d999-462c-b84a-d5ae2d1196b8")
 	)
 	(wire
 		(pts
@@ -2844,6 +2954,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 101.6) (xy 133.35 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f946ac-7c7d-4ef1-bdb4-8e4b1c770b4e")
+	)
+	(wire
+		(pts
 			(xy 297.18 90.17) (xy 289.56 90.17)
 		)
 		(stroke
@@ -2874,13 +2994,43 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 111.76) (xy 133.35 111.76)
+			(xy 101.6 104.14) (xy 106.68 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9acac029-04bb-4e23-9094-431b6d1d9b29")
+		(uuid "99dd5fdf-1faf-4553-a2c7-a1e90392a9ec")
+	)
+	(wire
+		(pts
+			(xy 102.87 63.5) (xy 106.68 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9be4590b-58b2-452b-97db-bc6e5a91aab0")
+	)
+	(wire
+		(pts
+			(xy 129.54 99.06) (xy 133.35 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6998c4-558f-461f-93d2-4e367b184ad4")
+	)
+	(wire
+		(pts
+			(xy 102.87 83.82) (xy 106.68 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eff816e-8d77-4143-86c7-989831e6aeb7")
 	)
 	(wire
 		(pts
@@ -2891,6 +3041,16 @@
 			(type default)
 		)
 		(uuid "a04e1308-a15e-42ea-9ab8-20fd6ae7bad6")
+	)
+	(wire
+		(pts
+			(xy 101.6 114.3) (xy 106.68 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af59843f-8837-40e5-9483-f7cd48984418")
 	)
 	(wire
 		(pts
@@ -2931,6 +3091,16 @@
 			(type default)
 		)
 		(uuid "c3af18ae-0297-4ca0-af28-a2cd2ae2c8d4")
+	)
+	(wire
+		(pts
+			(xy 129.54 78.74) (xy 134.62 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5442988-809e-443b-abcf-13ee73474722")
 	)
 	(wire
 		(pts
@@ -2984,13 +3154,33 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 106.68) (xy 133.35 106.68)
+			(xy 129.54 116.84) (xy 133.35 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e4aeabeb-a067-4842-be8e-fc5fbf808618")
+		(uuid "df701d2f-4d52-49cf-8878-ceafba206c05")
+	)
+	(wire
+		(pts
+			(xy 129.54 114.3) (xy 133.35 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3aa90e9-e9fb-453f-8bb1-49b678c15ce8")
+	)
+	(wire
+		(pts
+			(xy 129.54 63.5) (xy 134.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e592f054-5858-4f5d-b2a6-6ba95d4c1df9")
 	)
 	(wire
 		(pts
@@ -3024,6 +3214,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 66.04) (xy 134.62 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f649bb11-0b06-4c2c-bec3-fc5f43c68cd6")
+	)
+	(wire
+		(pts
 			(xy 104.14 58.42) (xy 106.68 58.42)
 		)
 		(stroke
@@ -3031,16 +3231,6 @@
 			(type default)
 		)
 		(uuid "fa52e6b3-0c3e-4d63-af17-65af712535fb")
-	)
-	(wire
-		(pts
-			(xy 129.54 109.22) (xy 133.35 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd86308d-64d5-441a-946f-7991e6bade90")
 	)
 	(global_label "CAN2-"
 		(shape input)
@@ -3063,9 +3253,51 @@
 			)
 		)
 	)
-	(global_label "OPD_SDA"
+	(global_label "I2C1_SDA"
 		(shape bidirectional)
-		(at 133.35 109.22 0)
+		(at 102.87 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "12a35028-9b65-4c67-964c-e51bdbf4342b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.944 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART1_TX"
+		(shape input)
+		(at 101.6 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "467ddd24-0de1-4882-8cb7-885ab00efa3e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.6039 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO2"
+		(shape output)
+		(at 134.62 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3073,9 +3305,9 @@
 			)
 			(justify left)
 		)
-		(uuid "12a35028-9b65-4c67-964c-e51bdbf4342b")
+		(uuid "4b9ed590-81a7-4923-98af-aa2201d59a74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.8527 109.22 0)
+			(at 143.29 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3105,6 +3337,48 @@
 			)
 		)
 	)
+	(global_label "I2C2_SCL"
+		(shape input)
+		(at 102.87 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5e754c61-35c3-4a35-b67f-0e9c247a8a40")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.1158 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO6"
+		(shape output)
+		(at 133.35 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6edd4e3d-f3ae-4c24-b911-19f95f3812ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.02 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "UART0_TX"
 		(shape input)
 		(at 297.18 80.01 0)
@@ -3126,9 +3400,9 @@
 			)
 		)
 	)
-	(global_label "ADCS_UART_GNSS"
+	(global_label "GPIO4"
 		(shape output)
-		(at 133.35 106.68 0)
+		(at 134.62 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3136,9 +3410,9 @@
 			)
 			(justify left)
 		)
-		(uuid "7d805474-cf79-494a-9974-fb89d2562270")
+		(uuid "7d14c5cb-4408-4d72-afa6-debe16c42452")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.7847 106.68 0)
+			(at 143.29 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3165,6 +3439,27 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "UART4_TX"
+		(shape input)
+		(at 102.87 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8f47f1a6-896e-47a0-89b0-d33024bc6eb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.8739 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -3202,6 +3497,69 @@
 		(uuid "98abc525-6f99-4334-973c-fe3fbced016d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 307.8873 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO8"
+		(shape output)
+		(at 133.35 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a7fb85b5-b432-4b1d-a032-5eeae2c473dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.02 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "UART2_TX"
+		(shape input)
+		(at 101.6 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aba61e26-f0d6-4e9b-8eed-d6b413bcb55e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.6039 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART4_RX"
+		(shape output)
+		(at 134.62 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "abe5d044-9ec2-4a52-9ad4-43ed5dbad4f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.9185 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3273,6 +3631,153 @@
 			)
 		)
 	)
+	(global_label "GPIO7"
+		(shape output)
+		(at 101.6 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cce70fe7-ff67-41bb-9631-8ee75ad6661f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.93 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART1_RX"
+		(shape output)
+		(at 133.35 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d68ab69f-2387-48dd-a4d9-67d699cb44c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 145.6485 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO10"
+		(shape output)
+		(at 133.35 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d7917616-e8a4-40a7-bd90-bdf91bee08be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.2295 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO3"
+		(shape input)
+		(at 102.87 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d791d2f4-b1f1-427b-8417-ad08c44236c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO1"
+		(shape input)
+		(at 102.87 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d900e31b-9ea3-4b9a-843e-61a50a1766c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.2 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO5"
+		(shape output)
+		(at 101.6 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dcdf1b7a-4b7d-4908-85f2-fb426689276b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.93 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART3_TX"
+		(shape input)
+		(at 101.6 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "df45a693-a006-4d08-9848-9aa84d6e8846")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.6039 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "UART0_RX"
 		(shape output)
 		(at 134.62 83.82 0)
@@ -3286,6 +3791,69 @@
 		(uuid "df9c81c3-c862-4f0d-9357-8f43e8f6697f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 146.8391 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO9"
+		(shape output)
+		(at 101.6 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1e9cb1a-6f21-42e9-81ac-120a509c4380")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.93 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART2_RX"
+		(shape output)
+		(at 133.35 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e5101767-4600-4eda-83e8-4c8387b642b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 145.6485 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "UART3_RX"
+		(shape output)
+		(at 133.35 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ebf6655b-e902-4d8f-b9d4-639c5e31919f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 145.6485 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3315,24 +3883,45 @@
 			)
 		)
 	)
-	(global_label "OPD_SCL"
+	(global_label "I2C1_SCL"
 		(shape input)
-		(at 133.35 111.76 0)
+		(at 102.87 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ef9979be-f4db-41c0-8173-d1c505aa1b8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.6809 111.76 0)
+			(at 91.1158 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+			)
+		)
+	)
+	(global_label "I2C2_SDA"
+		(shape input)
+		(at 102.87 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f399560d-5c41-4682-a362-1a33cf52b291")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.0553 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
