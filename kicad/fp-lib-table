@@ -12,4 +12,5 @@
   (lib (name "oresat-transistors")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/oresat-transistors.pretty")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/logos.pretty")(options "")(descr ""))
   (lib (name "Connector_CSKB")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/Connector_CSKB.pretty")(options "")(descr ""))
+  (lib (name "SIS862DNT1GE3")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/SIS862DNT1GE3.pretty")(options "")(descr ""))
 )

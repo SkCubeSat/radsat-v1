@@ -10348,7 +10348,7 @@
 		)
 		(uuid "5981b8b0-9428-4671-930b-8d408873fad5")
 	)
-	(global_label "CAN2-"
+	(global_label "CAN1-"
 		(shape input)
 		(at 157.48 92.71 0)
 		(fields_autoplaced yes)
@@ -10369,7 +10369,7 @@
 			)
 		)
 	)
-	(global_label "CAN2+"
+	(global_label "CAN1+"
 		(shape input)
 		(at 157.48 87.63 0)
 		(fields_autoplaced yes)
@@ -10847,7 +10847,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "120k"
+		(property "Value" "120"
 			(at 151.13 92.075 0)
 			(effects
 				(font

@@ -2804,16 +2804,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 83.82) (xy 129.54 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56b3c5ff-8b6c-4124-95a7-b6513716d191")
-	)
-	(wire
-		(pts
 			(xy 102.87 66.04) (xy 106.68 66.04)
 		)
 		(stroke
@@ -3104,16 +3094,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 81.28) (xy 129.54 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d369c46d-b8c8-477a-b792-e5df97f2621e")
-	)
-	(wire
-		(pts
 			(xy 297.18 59.69) (xy 295.91 59.69)
 		)
 		(stroke
@@ -3232,7 +3212,7 @@
 		)
 		(uuid "fa52e6b3-0c3e-4d63-af17-65af712535fb")
 	)
-	(global_label "CAN2-"
+	(global_label "CAN1-"
 		(shape input)
 		(at 104.14 60.96 180)
 		(fields_autoplaced yes)
@@ -3589,7 +3569,7 @@
 			)
 		)
 	)
-	(global_label "CAN2+"
+	(global_label "CAN1+"
 		(shape input)
 		(at 104.14 58.42 180)
 		(fields_autoplaced yes)
@@ -3778,27 +3758,6 @@
 			)
 		)
 	)
-	(global_label "UART0_RX"
-		(shape output)
-		(at 134.62 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "df9c81c3-c862-4f0d-9357-8f43e8f6697f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.8391 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO9"
 		(shape output)
 		(at 101.6 119.38 180)
@@ -3854,27 +3813,6 @@
 		(uuid "ebf6655b-e902-4d8f-b9d4-639c5e31919f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 145.6485 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "UART0_TX"
-		(shape input)
-		(at 134.62 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "eef49183-55eb-48e9-91ab-25cbff5adf5e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.5367 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
