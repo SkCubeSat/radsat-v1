@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.47999998927116394
     },
     "selection_filter": {
       "dimensions": true,
@@ -46,7 +46,7 @@
       "shapes"
     ],
     "visible_layers": "00000000_00000000_0003f3f4_aa0aa0ff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
@@ -88,18 +88,18 @@
       11
     ],
     "col_widths": [
-      142,
-      133,
-      87,
-      59,
-      87,
-      87,
-      87,
-      62,
-      87,
-      87,
-      87,
-      87
+      114,
+      106,
+      70,
+      47,
+      70,
+      70,
+      70,
+      50,
+      70,
+      70,
+      70,
+      70
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

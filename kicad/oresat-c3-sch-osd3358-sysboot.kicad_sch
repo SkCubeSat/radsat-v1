@@ -9209,6 +9209,12 @@
 		(uuid "fae5383b-2092-4075-90a4-69dc6838dfd1")
 	)
 	(junction
+		(at 304.8 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0be6ca84-abec-409b-8077-1d54597d8765")
+	)
+	(junction
 		(at 231.14 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9231,6 +9237,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "734dff56-831e-40a2-a1be-6676a0708d6d")
+	)
+	(junction
+		(at 302.26 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8de4230e-4438-471d-a1f4-f51ed8045e13")
 	)
 	(junction
 		(at 148.59 92.71)
@@ -9900,6 +9912,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 180.34) (xy 302.26 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dfc60ea-8795-4c8b-a5b3-7a1fbc7f232a")
+	)
+	(wire
+		(pts
 			(xy 116.84 92.71) (xy 119.38 92.71)
 		)
 		(stroke
@@ -9967,6 +9989,16 @@
 			(type default)
 		)
 		(uuid "ab048257-99c7-4dcf-88a3-4afc286eb59a")
+	)
+	(wire
+		(pts
+			(xy 290.83 177.8) (xy 304.8 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac11ac48-9150-412b-9670-d9e3c104a614")
 	)
 	(wire
 		(pts
@@ -10347,6 +10379,48 @@
 			(justify left bottom)
 		)
 		(uuid "5981b8b0-9428-4671-930b-8d408873fad5")
+	)
+	(global_label "UART4_RX"
+		(shape input)
+		(at 290.83 180.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "049b4857-490d-4f05-a2a5-974c7656fb42")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 278.5315 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "UART4_TX"
+		(shape output)
+		(at 290.83 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c2fcc7b-bfe1-4167-a3bf-5945b12fae3c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 278.8339 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(global_label "CAN1-"
 		(shape input)
