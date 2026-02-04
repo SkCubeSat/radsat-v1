@@ -12847,6 +12847,12 @@
 		(uuid "316845f8-3997-4154-aa5b-7bd2dcfac444")
 	)
 	(junction
+		(at 229.87 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34cc43ee-713f-49d2-9079-ead8d385cacf")
+	)
+	(junction
 		(at 276.86 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13061,6 +13067,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1d9877d-f1ac-413d-8f49-d186b62eca95")
+	)
+	(junction
+		(at 229.87 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3150b8c-98ed-46d0-87f3-394a434ae0f7")
 	)
 	(junction
 		(at 300.99 111.76)
@@ -14758,6 +14770,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 149.86) (xy 238.76 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5d7f2f3-d800-4e90-9b26-c91cdbdf32b7")
+	)
+	(wire
+		(pts
 			(xy 241.3 152.4) (xy 241.3 157.48)
 		)
 		(stroke
@@ -14995,6 +15017,16 @@
 			(type default)
 		)
 		(uuid "bb16b90a-8f60-440c-8e7c-3a46050e3129")
+	)
+	(wire
+		(pts
+			(xy 229.87 215.9) (xy 237.49 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc1b3c34-d683-4305-be9c-6a5ff2202ecb")
 	)
 	(wire
 		(pts
@@ -15956,6 +15988,27 @@
 		)
 		(uuid "fffeb820-d333-4984-9ace-80fffa3c3f72")
 	)
+	(global_label "GPIO9"
+		(shape output)
+		(at 237.49 215.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "02d52fc1-7df6-4cc6-86d9-d5f3050b8121")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.16 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "MRAM_SPI_CLK"
 		(shape output)
 		(at 153.67 170.18 180)
@@ -16040,7 +16093,7 @@
 			)
 		)
 	)
-	(global_label "GPIO9"
+	(global_label "GPIO11"
 		(shape output)
 		(at 240.03 106.68 0)
 		(fields_autoplaced yes)
@@ -16052,7 +16105,28 @@
 		)
 		(uuid "28021abe-52f0-45e5-8404-a8107eabcd1b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.7 106.68 0)
+			(at 249.9095 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO8"
+		(shape output)
+		(at 238.76 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28d60f0c-91cb-4a66-96a0-253e343f0ef7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.43 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16208,7 +16282,7 @@
 			)
 		)
 	)
-	(global_label "GPIO8"
+	(global_label "GPIO12"
 		(shape output)
 		(at 240.03 109.22 0)
 		(fields_autoplaced yes)
@@ -16220,7 +16294,7 @@
 		)
 		(uuid "78fcdcf2-4c3a-4e81-827b-0a8ee4e81d87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.7 109.22 0)
+			(at 249.9095 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
