@@ -13,4 +13,5 @@
   (lib (name "Connector_CSKB")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/Connector_CSKB.pretty")(options "")(descr ""))
   (lib (name "SIS862DNT1GE3")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/SIS862DNT1GE3.pretty")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/lib/logos")(options "")(descr ""))
+  (lib (name "M20-8890245")(type "KiCad")(uri "${KIPRJMOD}/lib/oresat-footprints/M20-8890245.pretty")(options "")(descr ""))
 )
