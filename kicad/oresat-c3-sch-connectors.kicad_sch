@@ -2541,6 +2541,10 @@
 		(uuid "1c872d54-a19c-4567-8c97-b58a252f63a9")
 	)
 	(no_connect
+		(at 281.94 182.88)
+		(uuid "1f5c4343-8b9f-42ac-a518-9cb4e1b4898d")
+	)
+	(no_connect
 		(at 189.23 81.28)
 		(uuid "2302964e-38ac-4924-9477-d6859b759979")
 	)
@@ -2661,6 +2665,10 @@
 		(uuid "8bf18593-5649-4f91-9553-b74db89ffaf1")
 	)
 	(no_connect
+		(at 314.96 182.88)
+		(uuid "9103a255-f93c-46cf-b858-abc151f6e092")
+	)
+	(no_connect
 		(at 129.54 81.28)
 		(uuid "926faf74-bf23-487d-821f-408e6f60f953")
 	)
@@ -2683,6 +2691,10 @@
 	(no_connect
 		(at 189.23 106.68)
 		(uuid "a6f46edc-9ab8-4d1b-8043-8838340ea62b")
+	)
+	(no_connect
+		(at 292.1 182.88)
+		(uuid "aacc0470-1426-4e31-ae74-e3e4d5fb7d94")
 	)
 	(no_connect
 		(at 212.09 81.28)
@@ -2767,6 +2779,10 @@
 	(no_connect
 		(at 129.54 86.36)
 		(uuid "ded946ae-41a8-4a2f-903d-cef00646d62c")
+	)
+	(no_connect
+		(at 302.26 182.88)
+		(uuid "e0700ed8-c5c6-4179-a3c5-fc36649004d6")
 	)
 	(no_connect
 		(at 106.68 71.12)
@@ -4206,78 +4222,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 281.94 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0263386a-8b5d-4f33-85e0-233d9ad12810")
-		(property "Reference" "#PWR018"
-			(at 281.94 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 281.94 187.0155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 281.94 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 281.94 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 281.94 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c32cdbfd-746a-4650-9c19-40955e8d5a69")
-		)
-		(instances
-			(project "oresat-c3-sch-connectors"
-				(path "/34aa0b95-21f2-4602-b278-0e482ca78b44"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:FerriteBead_Small")
 		(at 293.37 59.69 90)
 		(unit 1)
@@ -5497,78 +5441,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 292.1 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53def04b-32fa-4585-973c-2b8b2e72826d")
-		(property "Reference" "#PWR012"
-			(at 292.1 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 292.1 187.0155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 292.1 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 292.1 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 292.1 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "93a9f1fa-bd42-4a0a-8eb8-f59ec4d47c60")
-		)
-		(instances
-			(project "oresat-c3-sch-connectors"
-				(path "/34aa0b95-21f2-4602-b278-0e482ca78b44"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 181.61 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5921,150 +5793,6 @@
 			(project "oresat-c3"
 				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 314.96 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9507e84-4357-4228-9bd2-a5f34cc7fb2d")
-		(property "Reference" "#PWR017"
-			(at 314.96 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 314.96 187.0155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 314.96 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 314.96 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 314.96 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b8f27539-92f4-40ba-b8a8-18204c2c442e")
-		)
-		(instances
-			(project "oresat-c3-sch-connectors"
-				(path "/34aa0b95-21f2-4602-b278-0e482ca78b44"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 302.26 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c66597e7-daf8-4705-9d0b-8a2fd88ae38d")
-		(property "Reference" "#PWR016"
-			(at 302.26 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 302.26 187.0155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 302.26 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 302.26 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 302.26 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c48b3332-6f07-4f6a-8cac-84444b13bd99")
-		)
-		(instances
-			(project "oresat-c3-sch-connectors"
-				(path "/34aa0b95-21f2-4602-b278-0e482ca78b44"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "oresat-c3"
-				(path "/65d12cdd-c326-4033-9053-c59fa4e0b25e/b9a61b98-fba0-4063-a603-e7fc9d7070a0"
-					(reference "#PWR016")
 					(unit 1)
 				)
 			)
