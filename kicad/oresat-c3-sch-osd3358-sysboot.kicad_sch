@@ -10885,6 +10885,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 256.54 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 256.54 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 256.54 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4bc5f16-fcc9-4bf0-8f0f-1f190c00b5d6")
 		)
@@ -11091,6 +11118,15 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 148.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
 			(at 148.59 90.17 0)
 			(effects
 				(font
@@ -12207,6 +12243,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
 			(at 116.84 74.93 0)
 			(effects
 				(font
@@ -14207,6 +14270,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 231.14 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 231.14 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 231.14 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0036f9b0-fab9-4025-8720-c1490641ca31")
 		)
@@ -14386,6 +14476,33 @@
 		)
 		(property "Total Price" ""
 			(at 213.36 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 213.36 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 213.36 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 213.36 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)

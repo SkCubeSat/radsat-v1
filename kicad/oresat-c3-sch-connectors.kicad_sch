@@ -4300,6 +4300,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "FERRITE BEAD 30 OHM 0603 1LN"
+			(at 293.37 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 293.37 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BLM18KG300JH1D"
+			(at 293.37 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7fd97f24-5417-4e19-8c48-dfafdfc3c1ec")
 		)
@@ -4963,7 +4990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "SAMTEC"
+		(property "Manufacturer_Name" "Samtec Inc."
 			(at 208.28 553.34 0)
 			(effects
 				(font
@@ -4973,7 +5000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D-001"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 208.28 653.34 0)
 			(effects
 				(font
@@ -5020,6 +5047,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CONN SOCKET 52POS 0.1 GOLD PCB"
+			(at 189.23 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6075,6 +6111,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10 OHM 1% 1/8W 0603"
+			(at 293.37 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 293.37 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10R0"
+			(at 293.37 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4e125b2-6247-456b-8e33-57033a59b669")
 		)
@@ -6332,7 +6395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "SAMTEC"
+		(property "Manufacturer_Name" "Samtec Inc."
 			(at 125.73 553.34 0)
 			(effects
 				(font
@@ -6342,7 +6405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D-001"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 125.73 653.34 0)
 			(effects
 				(font
@@ -6389,6 +6452,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CONN SOCKET 52POS 0.1 GOLD PCB"
+			(at 106.68 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

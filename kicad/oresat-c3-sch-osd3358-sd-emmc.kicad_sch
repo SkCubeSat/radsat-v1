@@ -16883,6 +16883,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 267.97 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 267.97 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 267.97 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "906e6344-ad55-45c0-a01c-238522297496")
 		)
@@ -17426,6 +17453,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 280.67 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 280.67 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 280.67 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e20e6945-acba-48cc-a00b-9273c013490b")
 		)
@@ -17523,6 +17577,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 360.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 360.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 360.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7f8a5ec-bd59-4eb2-b867-3461fd1979bd")
 		)
@@ -17612,6 +17693,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 383.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 383.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 383.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
 			(at 383.54 163.83 0)
 			(effects
 				(font
@@ -18396,6 +18504,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 280.67 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 280.67 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 280.67 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33595696-7691-4837-9e16-63521292cfa5")
 		)
@@ -18558,6 +18693,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 267.97 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 267.97 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 267.97 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4891a478-4eb2-4589-a7f3-5f05de3553a3")
 		)
@@ -18655,6 +18817,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CAP CER 10UF 16V X5R 0805"
+			(at 57.15 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 57.15 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
+			(at 57.15 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abcb74c7-d81a-4ec3-abe9-18a3d535f7e6")
 		)
@@ -18744,6 +18933,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 368.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 368.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 368.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
 			(at 368.3 163.83 0)
 			(effects
 				(font
@@ -18972,6 +19188,15 @@
 		)
 		(property "Total Price" ""
 			(at 242.57 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 242.57 246.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19271,6 +19496,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 345.44 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 345.44 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 345.44 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "119c825c-3f72-427a-832c-a8e2fddc8edf")
 		)
@@ -19453,6 +19705,33 @@
 		)
 		(property "Total Price" ""
 			(at 267.97 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 267.97 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 267.97 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 267.97 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20589,6 +20868,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 280.67 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 280.67 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 280.67 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "817d475e-e921-473c-a3cc-f4b072b6f4f3")
 		)
@@ -20754,7 +21060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
+		(property "Manufacturer_Name" "Vishay Siliconix"
 			(at 270.51 928.6 0)
 			(effects
 				(font
@@ -20771,6 +21077,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "MOSFET N-CH 20V 12.5A PPAK1212-8"
+			(at 248.92 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21290,6 +21605,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 375.92 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 375.92 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 375.92 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7025a390-70c3-4ee2-b7ba-0b4986635b40")
 		)
@@ -21379,6 +21721,33 @@
 		)
 		(property "Total Price" ""
 			(at 267.97 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 267.97 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 267.97 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 267.97 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21483,6 +21852,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CAP CER 10UF 16V X5R 0805"
+			(at 391.16 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 391.16 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
+			(at 391.16 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "828d692d-5ad0-42be-970c-584ca7f60460")
 		)
@@ -21570,6 +21966,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 58.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CONN MICRO SD CARD R/A SMD"
+			(at 58.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Hirose Electric Co Ltd"
+			(at 58.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DM3BT-DSF-PEJS"
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -21708,6 +22131,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 355.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
+			(at 355.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 355.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
 			(at 355.6 163.83 0)
 			(effects
 				(font
@@ -21906,6 +22356,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 78.74 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 78.74 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 78.74 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f9a7e44-b26b-488b-ad5b-e0374e98c6a8")
 		)
@@ -22024,6 +22501,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 280.67 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 280.67 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 280.67 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "235c732f-61c2-417f-93ca-e9ffc107fe5d")
 		)
@@ -22113,6 +22617,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 67.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
+			(at 67.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 67.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
 			(at 67.31 110.49 0)
 			(effects
 				(font
@@ -22217,6 +22748,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+			(at 267.97 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 267.97 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+			(at 267.97 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2763d010-cc51-4a87-a1e9-12ea509444f1")
 		)
@@ -22306,6 +22864,33 @@
 		)
 		(property "Total Price" ""
 			(at 261.62 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 261.62 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 261.62 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 261.62 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22426,6 +23011,33 @@
 		)
 		(property "Total Price" ""
 			(at 281.94 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
+			(at 281.94 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Electronic Components"
+			(at 281.94 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 281.94 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
