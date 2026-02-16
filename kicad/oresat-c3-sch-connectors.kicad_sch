@@ -4586,7 +4586,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f80990b-51e7-40b0-9df4-d2b4141753d2")
 		(property "Reference" "H4"
@@ -4660,7 +4660,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2701f03d-5a2e-4b91-b7d3-b73fe1cee51b")
 		(property "Reference" "TP40"
 			(at 294.64 102.235 90)
@@ -4759,7 +4759,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "336486fc-dd2c-475b-98d8-876ec1b41249")
 		(property "Reference" "TP36"
 			(at 294.64 94.615 90)
@@ -4858,7 +4858,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "343bea28-fea4-4769-9096-60d3766f12da")
 		(property "Reference" "H3"
@@ -5309,7 +5309,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "47625b03-3f72-4865-869c-5322690bbc64")
 		(property "Reference" "TP37"
 			(at 294.64 97.155 90)
@@ -5408,7 +5408,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5164d4a3-c7d9-4f60-8fe4-9748253e5311")
 		(property "Reference" "H2"
@@ -5841,7 +5841,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c939227f-5301-428d-ab10-6756d0edae03")
 		(property "Reference" "TP44"
 			(at 294.64 109.855 90)
@@ -5940,7 +5940,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cfbcb6e6-1a32-46ce-8934-6e2e271f0a08")
 		(property "Reference" "TP43"
 			(at 294.64 107.315 90)
@@ -6166,7 +6166,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d8d2e2a1-a65c-4b7f-8bfe-d9b0663e9eec")
 		(property "Reference" "TP41"
 			(at 294.64 104.775 90)
@@ -6642,7 +6642,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ff7b9077-88c0-491a-aad0-65b219fcb946")
 		(property "Reference" "H1"

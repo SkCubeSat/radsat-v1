@@ -10507,7 +10507,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0148bd87-eb43-41f6-a9f3-60373ca10b76")
 		(property "Reference" "TP84"
 			(at 267.97 144.78 90)
@@ -11197,7 +11197,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1d282f0f-b9f7-4358-8c4e-bacf6a9c30b5")
 		(property "Reference" "TP85"
 			(at 267.97 170.18 90)
@@ -11414,7 +11414,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "25b0b42e-78bd-43ff-9f0c-7c4627e38b2b")
 		(property "Reference" "TP75"
 			(at 167.64 203.2 0)
@@ -11507,7 +11507,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "29be2c9d-f8c0-4a1c-979e-d49878518d92")
 		(property "Reference" "TP129"
 			(at 179.07 149.86 0)
@@ -11600,7 +11600,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2ef278a4-ba8f-467e-a4fc-9488d01d5c1d")
 		(property "Reference" "TP135"
 			(at 292.1 218.44 0)
@@ -11758,7 +11758,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3598e889-6d39-401a-9b35-6da39ca95b03")
 		(property "Reference" "TP81"
 			(at 264.16 68.58 90)
@@ -11851,7 +11851,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "38d7e51e-d638-499a-882b-e371ca391c94")
 		(property "Reference" "TP132"
 			(at 179.07 172.72 0)
@@ -12065,7 +12065,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "42cf41f1-a136-4f1a-ba8a-1be579d7a71e")
 		(property "Reference" "TP78"
 			(at 181.61 68.58 0)
@@ -12403,7 +12403,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "62cc4f37-3f34-4d24-a273-f8350e18412d")
 		(property "Reference" "TP79"
 			(at 167.64 209.55 0)
@@ -12496,7 +12496,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6aaed319-aab9-4c41-ab19-17c7a39e9494")
 		(property "Reference" "TP74"
 			(at 167.64 190.5 0)
@@ -12851,7 +12851,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8a3cb0cd-9879-42a6-bb96-fae9641818ce")
 		(property "Reference" "TP130"
 			(at 179.07 157.48 0)
@@ -13076,7 +13076,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "903d639c-d32e-4c9c-a324-a885c6b1dcad")
 		(property "Reference" "TP80"
 			(at 264.16 50.8 90)
@@ -13290,7 +13290,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9a30cfed-5571-4bdc-8820-43fc403022ea")
 		(property "Reference" "TP73"
 			(at 167.64 182.88 0)
@@ -14258,7 +14258,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a58cac48-a7c3-4f48-8bfb-c247a3df95a9")
 		(property "Reference" "TP83"
 			(at 264.16 99.06 90)
@@ -14541,7 +14541,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "aef2d130-b4c7-4195-8625-c5c780121939")
 		(property "Reference" "TP128"
 			(at 179.07 137.16 0)
@@ -14700,7 +14700,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6a873f8-1a2a-42c5-b2bf-025412abe503")
 		(property "Reference" "TP82"
 			(at 264.16 86.36 90)
@@ -14793,7 +14793,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bfec2fc1-980e-4731-b09d-537306cddd71")
 		(property "Reference" "TP127"
 			(at 179.07 127 0)
@@ -14954,6 +14954,33 @@
 		)
 		(property "Total Price" ""
 			(at 298.45 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "IC VREF SHUNT ADJ 0.5% SOT23-3"
+			(at 298.45 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 298.45 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TLVH431BMDBZREP"
+			(at 298.45 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15128,6 +15155,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "40V 250MW 100@150MA,10V 600MA PN"
+			(at 288.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Shenzhen Slkormicro Semicon Co., Ltd."
+			(at 288.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MMBT2907"
+			(at 288.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbcc20d3-b6e8-438a-96dc-de1ba5d2554c")
 		)
@@ -15153,7 +15207,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c705658d-df1c-4dfc-a1b0-9f4ef6e20d06")
 		(property "Reference" "TP76"
 			(at 180.34 96.52 0)
@@ -15246,7 +15300,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c9fb7b3f-4080-4753-a9cb-050195f0457b")
 		(property "Reference" "TP77"
 			(at 180.34 93.98 0)
@@ -15581,7 +15635,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d6de030c-f288-4541-bdf6-18195d6f29c9")
 		(property "Reference" "TP133"
 			(at 273.05 200.66 0)
@@ -15746,6 +15800,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "IC BUFF NON-INVERT 2.7V SC-70-5"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SN74AUC1G07DCKR"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f297a4ba-da46-424c-aa27-d4ba96fdca46")
 		)
@@ -15843,7 +15924,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dd994595-d6af-40e1-96fe-5e51f4c9c2d6")
 		(property "Reference" "TP131"
 			(at 179.07 165.1 0)

@@ -17194,7 +17194,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1e89ee3f-2d80-49e2-b8b2-3a0db8ae4827")
 		(property "Reference" "TP46"
 			(at 236.22 203.2 90)
@@ -19563,7 +19563,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "633c5c62-809d-4214-abf7-ecba82d24d81")
 		(property "Reference" "TP48"
 			(at 236.22 157.48 0)
@@ -21222,7 +21222,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b5b099dd-eb1d-4f8f-90ac-ac678c29ca23")
 		(property "Reference" "TP39"
 			(at 236.22 111.76 0)

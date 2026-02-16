@@ -4627,6 +4627,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "IC FRAM 64KBIT I2C 1MHZ 8DFN"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon Technologies"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FM24CL64B-DGTR"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9dd84869-c4ad-41f5-b4f6-eb61cfaab760")
 		)
@@ -4667,7 +4694,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "040b4363-17e7-49e0-bae4-fbbbea0a2a1c")
 		(property "Reference" "TP8"
 			(at 350.52 226.06 0)
@@ -4759,7 +4786,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "094930ea-a054-47b5-b0f8-211d84dc429d")
 		(property "Reference" "TP169"
 			(at 143.51 101.6 0)
@@ -5417,7 +5444,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1b21a2c9-8fdd-49f7-a287-8b8d362d8fe6")
 		(property "Reference" "TP163"
 			(at 191.77 162.56 0)
@@ -5584,6 +5611,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "TVS DIODE 5VWM 17.5VC SC706"
+			(at 353.06 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Semtech Corporation"
+			(at 353.06 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCLAMP0504FBTCT"
+			(at 353.06 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abfe7488-fec5-4874-b801-0ef2e086a0bd")
 		)
@@ -5742,7 +5796,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2b56974e-5a57-41bb-b5c7-926a6f9b06de")
 		(property "Reference" "TP141"
 			(at 198.12 99.06 0)
@@ -5958,7 +6012,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2d552069-27ec-4e3c-bdbb-7d5dbc9bf854")
 		(property "Reference" "TP164"
 			(at 212.09 218.44 0)
@@ -6174,7 +6228,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3fc3d1af-d511-45e4-8e5f-ce3f267953cd")
 		(property "Reference" "TP168"
 			(at 143.51 93.98 0)
@@ -6401,6 +6455,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 213.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "MOSFET P-CH 20V 1.8A SOT23-3"
+			(at 213.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 213.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NTR4101PT1H"
 			(at 213.36 48.26 0)
 			(effects
 				(font
@@ -7163,7 +7244,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6ee72de3-a5c6-428f-9857-91b74b066fa7")
 		(property "Reference" "TP149"
 			(at 165.1 104.14 0)
@@ -7501,7 +7582,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "76fcc122-daf1-4a07-b160-9688feb8aa67")
 		(property "Reference" "TP140"
@@ -8482,6 +8563,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "DIODE STANDARD 50V 150MA SOD323"
+			(at 184.15 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay General Semiconductor - Diodes Division"
+			(at 184.15 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N4151WS-G3-08"
+			(at 184.15 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "799e10e2-f4a4-4384-a396-0350cf8abb7f")
 		)
@@ -8757,7 +8865,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a999ee7e-42cb-46ea-825c-fc8225d77663")
 		(property "Reference" "TP148"
 			(at 198.12 104.14 0)
@@ -8923,6 +9031,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "IC RTC CLK/CALENDAR I2C 8SON"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Micro Crystal AG"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RV-3028-C7 32.768KHZ 1PPM-TA-QC"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4da6df49-6430-4e96-8851-8f21c719b806")
 		)
@@ -9037,6 +9172,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "TVS DIODE 5VWM 17.5VC SC706"
+			(at 214.63 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Semtech Corporation"
+			(at 214.63 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCLAMP0504FBTCT"
+			(at 214.63 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f985fafb-5ca9-4f21-9273-f039374ec8ac")
 		)
@@ -9137,7 +9299,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b99d5466-6b36-4b82-8b59-dd4805dc814a")
 		(property "Reference" "TP165"
 			(at 212.09 227.33 0)
@@ -9229,7 +9391,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bb71b64a-6168-451b-a055-8258a18c0d61")
 		(property "Reference" "TP6"
 			(at 330.2 161.29 0)
@@ -9576,7 +9738,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d339bea0-9702-4b79-9cba-284d5c41d7d3")
 		(property "Reference" "TP5"
@@ -9734,7 +9896,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d77294cb-fdff-44bc-9a65-82e914f005da")
 		(property "Reference" "TP7"
 			(at 350.52 217.17 0)
@@ -9893,6 +10055,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#TRPBF"
 			(at 316.23 217.17 0)
 			(effects
 				(font
@@ -10131,6 +10320,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 177.8 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
+			(at 177.8 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 177.8 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#TRPBF"
 			(at 177.8 218.44 0)
 			(effects
 				(font
