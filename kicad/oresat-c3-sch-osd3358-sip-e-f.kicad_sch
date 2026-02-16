@@ -7520,7 +7520,7 @@
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 218.44 154.94 0)
 			(effects
 				(font
@@ -7537,7 +7537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/778/OSd335x-Software-PwrMgmt.pdf"
 			(at 218.44 182.88 0)
 			(effects
 				(font
@@ -7592,6 +7592,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 218.44 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OSD3358-512M-ISM"
+			(at 218.44 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Octavo Systems LLC"
+			(at 218.44 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC MODULE CORTEX-A8 1GHZ 512MB"
 			(at 218.44 182.88 0)
 			(effects
 				(font
@@ -8767,7 +8794,7 @@
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 217.17 54.61 0)
 			(effects
 				(font
@@ -8784,7 +8811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/778/OSd335x-Software-PwrMgmt.pdf"
 			(at 217.17 87.63 0)
 			(effects
 				(font
@@ -8839,6 +8866,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 217.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OSD3358-512M-ISM"
+			(at 217.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Octavo Systems LLC"
+			(at 217.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC MODULE CORTEX-A8 1GHZ 512MB"
 			(at 217.17 87.63 0)
 			(effects
 				(font

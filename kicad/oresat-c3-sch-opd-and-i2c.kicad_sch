@@ -4627,15 +4627,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC FRAM 64KBIT I2C 1MHZ 8DFN"
-			(at 242.57 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Infineon Technologies"
 			(at 242.57 86.36 0)
 			(effects
@@ -4646,6 +4637,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "FM24CL64B-DGTR"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC FRAM 64KBIT I2C 1MHZ 8DFN"
 			(at 242.57 86.36 0)
 			(effects
 				(font
@@ -5083,15 +5083,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 365.76 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 365.76 212.09 0)
 			(effects
@@ -5102,6 +5093,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 365.76 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 365.76 212.09 0)
 			(effects
 				(font
@@ -5207,15 +5207,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 227.33 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 227.33 213.36 0)
 			(effects
@@ -5226,6 +5217,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 227.33 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 227.33 213.36 0)
 			(effects
 				(font
@@ -5330,15 +5330,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 207.01 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 207.01 52.07 0)
 			(effects
@@ -5349,6 +5340,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 207.01 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -5611,15 +5611,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "TVS DIODE 5VWM 17.5VC SC706"
-			(at 353.06 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Semtech Corporation"
 			(at 353.06 193.04 0)
 			(effects
@@ -5630,6 +5621,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RCLAMP0504FBTCT"
+			(at 353.06 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "TVS DIODE 5VWM 17.5VC SC706"
 			(at 353.06 193.04 0)
 			(effects
 				(font
@@ -5747,15 +5747,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 163.83 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 163.83 168.91 0)
 			(effects
@@ -5766,6 +5757,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 163.83 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 163.83 168.91 0)
 			(effects
 				(font
@@ -5963,15 +5963,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 150 OHM 1% 0.125W AUTO"
-			(at 184.15 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 184.15 69.85 0)
 			(effects
@@ -5982,6 +5973,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT150R-HP"
+			(at 184.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 150 OHM 1% 0.125W AUTO"
 			(at 184.15 69.85 0)
 			(effects
 				(font
@@ -6179,15 +6179,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 252.73 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 252.73 69.85 0)
 			(effects
@@ -6198,6 +6189,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 252.73 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 252.73 69.85 0)
 			(effects
 				(font
@@ -6463,15 +6463,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "MOSFET P-CH 20V 1.8A SOT23-3"
-			(at 213.36 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "onsemi"
 			(at 213.36 48.26 0)
 			(effects
@@ -6482,6 +6473,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "NTR4101PT1H"
+			(at 213.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "MOSFET P-CH 20V 1.8A SOT23-3"
 			(at 213.36 48.26 0)
 			(effects
 				(font
@@ -6589,15 +6589,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 10NF 16V X7R 0603"
-			(at 160.02 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
 			(at 160.02 205.74 0)
 			(effects
@@ -6608,6 +6599,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL10B103KO8WPNC"
+			(at 160.02 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 10NF 16V X7R 0603"
 			(at 160.02 205.74 0)
 			(effects
 				(font
@@ -6842,15 +6842,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 223.52 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 223.52 213.36 0)
 			(effects
@@ -6861,6 +6852,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 223.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 223.52 213.36 0)
 			(effects
 				(font
@@ -7063,15 +7063,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 280.67 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 280.67 172.72 0)
 			(effects
@@ -7082,6 +7073,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 280.67 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 172.72 0)
 			(effects
 				(font
@@ -7410,15 +7410,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 165.1 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 165.1 110.49 0)
 			(effects
@@ -7429,6 +7420,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 165.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 165.1 110.49 0)
 			(effects
 				(font
@@ -7533,15 +7533,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
-			(at 156.21 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 156.21 90.17 0)
 			(effects
@@ -7552,6 +7543,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT4K70-HP"
+			(at 156.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
 			(at 156.21 90.17 0)
 			(effects
 				(font
@@ -7749,15 +7749,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 275.59 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 275.59 171.45 0)
 			(effects
@@ -7768,6 +7759,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 275.59 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 275.59 171.45 0)
 			(effects
 				(font
@@ -7873,15 +7873,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
-			(at 160.02 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 160.02 90.17 0)
 			(effects
@@ -7892,6 +7883,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT4K70-HP"
+			(at 160.02 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
 			(at 160.02 90.17 0)
 			(effects
 				(font
@@ -7997,15 +7997,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 142.24 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 142.24 173.99 0)
 			(effects
@@ -8016,6 +8007,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 142.24 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 142.24 173.99 0)
 			(effects
 				(font
@@ -8120,15 +8120,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 361.95 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 361.95 212.09 0)
 			(effects
@@ -8139,6 +8130,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 361.95 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 361.95 212.09 0)
 			(effects
 				(font
@@ -8374,15 +8374,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 172.72 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 172.72 69.85 0)
 			(effects
@@ -8393,6 +8384,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 172.72 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 172.72 69.85 0)
 			(effects
 				(font
@@ -8563,15 +8563,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "DIODE STANDARD 50V 150MA SOD323"
-			(at 184.15 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Vishay General Semiconductor - Diodes Division"
 			(at 184.15 76.2 90)
 			(effects
@@ -8582,6 +8573,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4151WS-G3-08"
+			(at 184.15 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "DIODE STANDARD 50V 150MA SOD323"
 			(at 184.15 76.2 90)
 			(effects
 				(font
@@ -8686,15 +8686,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 10NF 16V X7R 0603"
-			(at 298.45 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
 			(at 298.45 204.47 0)
 			(effects
@@ -8705,6 +8696,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL10B103KO8WPNC"
+			(at 298.45 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 10NF 16V X7R 0603"
 			(at 298.45 204.47 0)
 			(effects
 				(font
@@ -9031,15 +9031,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC RTC CLK/CALENDAR I2C 8SON"
-			(at 181.61 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Micro Crystal AG"
 			(at 181.61 101.6 0)
 			(effects
@@ -9050,6 +9041,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RV-3028-C7 32.768KHZ 1PPM-TA-QC"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC RTC CLK/CALENDAR I2C 8SON"
 			(at 181.61 101.6 0)
 			(effects
 				(font
@@ -9172,15 +9172,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "TVS DIODE 5VWM 17.5VC SC706"
-			(at 214.63 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Semtech Corporation"
 			(at 214.63 194.31 0)
 			(effects
@@ -9191,6 +9182,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RCLAMP0504FBTCT"
+			(at 214.63 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "TVS DIODE 5VWM 17.5VC SC706"
 			(at 214.63 194.31 0)
 			(effects
 				(font
@@ -9559,15 +9559,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 100UF 6.3V X5R 1210"
-			(at 189.23 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 189.23 83.82 0)
 			(effects
@@ -9578,6 +9569,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRT32ER60J107ME13L"
+			(at 189.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 100UF 6.3V X5R 1210"
 			(at 189.23 83.82 0)
 			(effects
 				(font
@@ -10063,15 +10063,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
-			(at 316.23 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Analog Devices Inc."
 			(at 316.23 217.17 0)
 			(effects
@@ -10082,6 +10073,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#TRPBF"
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
 			(at 316.23 217.17 0)
 			(effects
 				(font
@@ -10204,15 +10204,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 137.16 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 137.16 172.72 0)
 			(effects
@@ -10223,6 +10214,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 137.16 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 137.16 172.72 0)
 			(effects
 				(font
@@ -10328,15 +10328,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
-			(at 177.8 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Analog Devices Inc."
 			(at 177.8 218.44 0)
 			(effects
@@ -10347,6 +10338,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#TRPBF"
+			(at 177.8 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC ACCELERATOR I2C HOTSWAP 8MSOP"
 			(at 177.8 218.44 0)
 			(effects
 				(font

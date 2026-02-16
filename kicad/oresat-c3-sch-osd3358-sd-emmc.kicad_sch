@@ -16883,15 +16883,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 267.97 213.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 267.97 213.36 90)
 			(effects
@@ -16902,6 +16893,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 267.97 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 213.36 90)
 			(effects
 				(font
@@ -17453,15 +17453,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 280.67 119.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 280.67 119.38 90)
 			(effects
@@ -17472,6 +17463,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 280.67 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 119.38 90)
 			(effects
 				(font
@@ -17577,15 +17577,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 360.68 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 360.68 163.83 0)
 			(effects
@@ -17596,6 +17587,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 360.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 360.68 163.83 0)
 			(effects
 				(font
@@ -17701,15 +17701,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 383.54 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 383.54 163.83 0)
 			(effects
@@ -17720,6 +17711,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 383.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 383.54 163.83 0)
 			(effects
 				(font
@@ -17880,6 +17880,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 330.2 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC FLASH 64GBIT EMMC 100LFBGA"
+			(at 330.2 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ISSI, Integrated Silicon Solution Inc"
+			(at 330.2 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IS21ES08GA-JQLI-TR"
 			(at 330.2 175.26 0)
 			(effects
 				(font
@@ -18504,15 +18531,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 280.67 104.14 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 280.67 104.14 90)
 			(effects
@@ -18523,6 +18541,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 280.67 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 104.14 90)
 			(effects
 				(font
@@ -18693,15 +18720,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 267.97 198.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 267.97 198.12 90)
 			(effects
@@ -18712,6 +18730,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 267.97 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 198.12 90)
 			(effects
 				(font
@@ -18817,15 +18844,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 10UF 16V X5R 0805"
-			(at 57.15 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 57.15 110.49 0)
 			(effects
@@ -18836,6 +18854,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
+			(at 57.15 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 10UF 16V X5R 0805"
 			(at 57.15 110.49 0)
 			(effects
 				(font
@@ -18941,15 +18968,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 368.3 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 368.3 163.83 0)
 			(effects
@@ -18960,6 +18978,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 368.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 368.3 163.83 0)
 			(effects
 				(font
@@ -19195,15 +19222,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 20 KOHM 1% 0.125W AUTO"
-			(at 242.57 246.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 242.57 246.38 90)
 			(effects
@@ -19214,6 +19232,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT20K0-HP"
+			(at 242.57 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 20 KOHM 1% 0.125W AUTO"
 			(at 242.57 246.38 90)
 			(effects
 				(font
@@ -19514,15 +19541,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 345.44 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 345.44 163.83 0)
 			(effects
@@ -19533,6 +19551,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 345.44 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 345.44 163.83 0)
 			(effects
 				(font
@@ -19730,15 +19757,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 267.97 208.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 267.97 208.28 90)
 			(effects
@@ -19749,6 +19767,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 267.97 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 208.28 90)
 			(effects
 				(font
@@ -19950,7 +19977,7 @@
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 193.04 93.98 0)
 			(effects
 				(font
@@ -19967,7 +19994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/778/OSd335x-Software-PwrMgmt.pdf"
 			(at 193.04 157.48 0)
 			(effects
 				(font
@@ -20022,6 +20049,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 193.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OSD3358-512M-ISM"
+			(at 193.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Octavo Systems LLC"
+			(at 193.04 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC MODULE CORTEX-A8 1GHZ 512MB"
 			(at 193.04 157.48 0)
 			(effects
 				(font
@@ -20886,15 +20940,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 280.67 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 280.67 111.76 90)
 			(effects
@@ -20905,6 +20950,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 280.67 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 111.76 90)
 			(effects
 				(font
@@ -21098,7 +21152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "MOSFET N-CH 20V 12.5A PPAK1212-8"
+		(property "Description / Value" "MOSFET N-CH 20V 12.5A PPAK1212-8"
 			(at 248.92 233.68 0)
 			(effects
 				(font
@@ -21429,15 +21483,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN HEADER R/A 3POS 2.54MM"
-			(at 162.56 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Samtec Inc."
 			(at 162.56 86.36 0)
 			(effects
@@ -21448,6 +21493,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TSW-103-25-F-S-RA"
+			(at 162.56 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CONN HEADER R/A 3POS 2.54MM"
 			(at 162.56 86.36 0)
 			(effects
 				(font
@@ -21650,15 +21704,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 375.92 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 375.92 163.83 0)
 			(effects
@@ -21669,6 +21714,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 375.92 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 375.92 163.83 0)
 			(effects
 				(font
@@ -21773,15 +21827,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 267.97 193.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 267.97 193.04 90)
 			(effects
@@ -21792,6 +21837,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 267.97 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 193.04 90)
 			(effects
 				(font
@@ -21897,15 +21951,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 10UF 16V X5R 0805"
-			(at 391.16 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 391.16 163.83 0)
 			(effects
@@ -21916,6 +21961,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
+			(at 391.16 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 10UF 16V X5R 0805"
 			(at 391.16 163.83 0)
 			(effects
 				(font
@@ -22019,15 +22073,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN MICRO SD CARD R/A SMD"
-			(at 58.42 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Hirose Electric Co Ltd"
 			(at 58.42 137.16 0)
 			(effects
@@ -22038,6 +22083,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "DM3BT-DSF-PEJS"
+			(at 58.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CONN MICRO SD CARD R/A SMD"
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -22184,15 +22238,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 1UF 16V X7R 0603"
-			(at 355.6 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 355.6 163.83 0)
 			(effects
@@ -22203,6 +22248,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM188R71C105KA64D"
+			(at 355.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 1UF 16V X7R 0603"
 			(at 355.6 163.83 0)
 			(effects
 				(font
@@ -22401,15 +22455,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 78.74 106.68 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 78.74 106.68 90)
 			(effects
@@ -22420,6 +22465,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 78.74 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 78.74 106.68 90)
 			(effects
 				(font
@@ -22546,15 +22600,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 280.67 127 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 280.67 127 90)
 			(effects
@@ -22565,6 +22610,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 280.67 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 127 90)
 			(effects
 				(font
@@ -22670,15 +22724,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 67.31 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 67.31 110.49 0)
 			(effects
@@ -22689,6 +22734,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 67.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 67.31 110.49 0)
 			(effects
 				(font
@@ -22793,15 +22847,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 267.97 203.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 267.97 203.2 90)
 			(effects
@@ -22812,6 +22857,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 267.97 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 203.2 90)
 			(effects
 				(font
@@ -22916,15 +22970,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 261.62 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 261.62 142.24 90)
 			(effects
@@ -22935,6 +22980,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 261.62 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 261.62 142.24 90)
 			(effects
 				(font
@@ -23063,15 +23117,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 281.94 142.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 281.94 142.24 90)
 			(effects
@@ -23082,6 +23127,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 281.94 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 281.94 142.24 90)
 			(effects
 				(font

@@ -1388,15 +1388,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 158.75 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 158.75 66.04 0)
 			(effects
@@ -1407,6 +1398,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 158.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 158.75 66.04 0)
 			(effects
 				(font
@@ -1551,15 +1551,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 10UF 16V X5R 0603"
-			(at 170.18 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 170.18 66.04 0)
 			(effects
@@ -1570,6 +1561,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRT188R61C106KE13D"
+			(at 170.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 10UF 16V X5R 0603"
 			(at 170.18 66.04 0)
 			(effects
 				(font
@@ -2064,16 +2064,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC RAM 4MBIT SPI 50MHZ 8DFN"
-			(at 134.62 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "Everspin Technologies"
 			(at 134.62 81.28 0)
 			(effects
@@ -2094,6 +2084,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MR20H40CDF"
+			(at 134.62 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC RAM 4MBIT SPI 50MHZ 8DFN"
 			(at 134.62 81.28 0)
 			(effects
 				(font
@@ -2219,15 +2218,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 113.03 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 113.03 69.85 0)
 			(effects
@@ -2238,6 +2228,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 113.03 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 113.03 69.85 0)
 			(effects
 				(font

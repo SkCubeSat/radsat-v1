@@ -10806,15 +10806,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 22UF 16V X7R 1210"
-			(at 162.56 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 162.56 58.42 0)
 			(effects
@@ -10825,6 +10816,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM32ER71C226KE19L"
+			(at 162.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 22UF 16V X7R 1210"
 			(at 162.56 58.42 0)
 			(effects
 				(font
@@ -11024,15 +11024,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 182.88 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 182.88 218.44 0)
 			(effects
@@ -11043,6 +11034,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 182.88 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 182.88 218.44 0)
 			(effects
 				(font
@@ -11148,15 +11148,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 299.72 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 299.72 219.71 0)
 			(effects
@@ -11167,6 +11158,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 299.72 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 299.72 219.71 0)
 			(effects
 				(font
@@ -11365,15 +11365,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 289.56 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 289.56 190.5 0)
 			(effects
@@ -11384,6 +11375,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 289.56 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 289.56 190.5 0)
 			(effects
 				(font
@@ -12016,15 +12016,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 499 OHM 1% 0.125W AUTO"
-			(at 298.45 139.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 298.45 139.7 90)
 			(effects
@@ -12035,6 +12026,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT499R-HP"
+			(at 298.45 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 499 OHM 1% 0.125W AUTO"
 			(at 298.45 139.7 90)
 			(effects
 				(font
@@ -12230,15 +12230,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 308.61 139.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 308.61 139.7 90)
 			(effects
@@ -12249,6 +12240,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 308.61 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 308.61 139.7 90)
 			(effects
 				(font
@@ -12354,15 +12354,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 177.165 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 177.165 58.42 0)
 			(effects
@@ -12373,6 +12364,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 177.165 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 177.165 58.42 0)
 			(effects
 				(font
@@ -13241,15 +13241,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 40.2K OHM 1% 1/10W 0603"
-			(at 308.61 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Würth Elektronik"
 			(at 308.61 114.3 90)
 			(effects
@@ -13260,6 +13251,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "560112116003"
+			(at 308.61 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 40.2K OHM 1% 1/10W 0603"
 			(at 308.61 114.3 90)
 			(effects
 				(font
@@ -13394,7 +13394,7 @@
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 224.79 45.72 0)
 			(effects
 				(font
@@ -13411,7 +13411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/778/OSd335x-Software-PwrMgmt.pdf"
 			(at 224.79 132.08 0)
 			(effects
 				(font
@@ -13466,6 +13466,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 224.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OSD3358-512M-ISM"
+			(at 224.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Octavo Systems LLC"
+			(at 224.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC MODULE CORTEX-A8 1GHZ 512MB"
 			(at 224.79 132.08 0)
 			(effects
 				(font
@@ -14426,15 +14453,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 22UF 16V X7R 1210"
-			(at 285.75 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 285.75 58.42 0)
 			(effects
@@ -14445,6 +14463,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM32ER71C226KE19L"
+			(at 285.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 22UF 16V X7R 1210"
 			(at 285.75 58.42 0)
 			(effects
 				(font
@@ -14961,15 +14988,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC VREF SHUNT ADJ 0.5% SOT23-3"
-			(at 298.45 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Texas Instruments"
 			(at 298.45 124.46 90)
 			(effects
@@ -14980,6 +14998,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TLVH431BMDBZREP"
+			(at 298.45 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC VREF SHUNT ADJ 0.5% SOT23-3"
 			(at 298.45 124.46 90)
 			(effects
 				(font
@@ -15155,15 +15182,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "40V 250MW 100@150MA,10V 600MA PN"
-			(at 288.29 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Shenzhen Slkormicro Semicon Co., Ltd."
 			(at 288.29 132.08 0)
 			(effects
@@ -15174,6 +15192,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MMBT2907"
+			(at 288.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "40V 250MW 100@150MA,10V 600MA PN"
 			(at 288.29 132.08 0)
 			(effects
 				(font
@@ -15465,15 +15492,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 299.72 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 299.72 210.82 0)
 			(effects
@@ -15484,6 +15502,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 299.72 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 299.72 210.82 0)
 			(effects
 				(font
@@ -15586,15 +15613,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
-			(at 298.45 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 298.45 76.2 0)
 			(effects
@@ -15605,6 +15623,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
+			(at 298.45 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 298.45 76.2 0)
 			(effects
 				(font
@@ -15800,15 +15827,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC BUFF NON-INVERT 2.7V SC-70-5"
-			(at 285.75 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Texas Instruments"
 			(at 285.75 203.2 0)
 			(effects
@@ -15819,6 +15837,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SN74AUC1G07DCKR"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC BUFF NON-INVERT 2.7V SC-70-5"
 			(at 285.75 203.2 0)
 			(effects
 				(font
@@ -16092,15 +16119,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 22UF 16V X7R 1210"
-			(at 166.37 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 166.37 58.42 0)
 			(effects
@@ -16111,6 +16129,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM32ER71C226KE19L"
+			(at 166.37 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 22UF 16V X7R 1210"
 			(at 166.37 58.42 0)
 			(effects
 				(font
@@ -16282,15 +16309,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 22UF 16V X7R 1210"
-			(at 166.37 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 166.37 76.2 0)
 			(effects
@@ -16301,6 +16319,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCM32ER71C226KE19L"
+			(at 166.37 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 22UF 16V X7R 1210"
 			(at 166.37 76.2 0)
 			(effects
 				(font

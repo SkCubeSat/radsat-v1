@@ -4300,15 +4300,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "FERRITE BEAD 30 OHM 0603 1LN"
-			(at 293.37 59.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 293.37 59.69 90)
 			(effects
@@ -4319,6 +4310,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BLM18KG300JH1D"
+			(at 293.37 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "FERRITE BEAD 30 OHM 0603 1LN"
 			(at 293.37 59.69 90)
 			(effects
 				(font
@@ -4419,6 +4419,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 279.4 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TE Connectivity AMP Connectors"
+			(at 279.4 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "2-1734592-0"
+			(at 279.4 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CONN FPC BOTTOM 20POS 0.5MM R/A"
 			(at 279.4 87.63 0)
 			(effects
 				(font
@@ -5050,7 +5077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN SOCKET 52POS 0.1 GOLD PCB"
+		(property "Description / Value" "CONN SOCKET 52POS 0.1 GOLD PCB"
 			(at 189.23 58.42 0)
 			(effects
 				(font
@@ -6111,15 +6138,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 10 OHM 1% 0.125W AUTO"
-			(at 293.37 67.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 293.37 67.31 90)
 			(effects
@@ -6130,6 +6148,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT10R0-HP"
+			(at 293.37 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 10 OHM 1% 0.125W AUTO"
 			(at 293.37 67.31 90)
 			(effects
 				(font
@@ -6455,7 +6482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN SOCKET 52POS 0.1 GOLD PCB"
+		(property "Description / Value" "CONN SOCKET 52POS 0.1 GOLD PCB"
 			(at 106.68 58.42 0)
 			(effects
 				(font

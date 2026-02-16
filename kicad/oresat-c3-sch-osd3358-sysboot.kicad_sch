@@ -10885,15 +10885,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 256.54 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 256.54 185.42 90)
 			(effects
@@ -10904,6 +10895,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 256.54 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 256.54 185.42 90)
 			(effects
 				(font
@@ -11126,15 +11126,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 0603 120 OHM 1% 0.125W AUTO"
-			(at 148.59 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Stackpole Electronics Inc"
 			(at 148.59 90.17 0)
 			(effects
@@ -11145,6 +11136,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCA0603FT120R-HP"
+			(at 148.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES 0603 120 OHM 1% 0.125W AUTO"
 			(at 148.59 90.17 0)
 			(effects
 				(font
@@ -11782,15 +11782,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "IC TRANSCEIVER 1/1 8SOIC"
-			(at 132.08 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Texas Instruments"
 			(at 132.08 90.17 0)
 			(effects
@@ -11801,6 +11792,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TCAN330D"
+			(at 132.08 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC TRANSCEIVER 1/1 8SOIC"
 			(at 132.08 90.17 0)
 			(effects
 				(font
@@ -12296,15 +12296,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CAP CER 0.1UF 16V X7R 0603"
-			(at 116.84 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Murata Electronics"
 			(at 116.84 74.93 0)
 			(effects
@@ -12315,6 +12306,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GCJ188R71C104KA01D"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CAP CER 0.1UF 16V X7R 0603"
 			(at 116.84 74.93 0)
 			(effects
 				(font
@@ -12356,7 +12356,7 @@
 				)
 			)
 		)
-		(property "Value" "OSD3358-512M-BSM"
+		(property "Value" "OSD3358-512M-ISM"
 			(at 147.32 121.92 0)
 			(effects
 				(font
@@ -12373,7 +12373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/778/OSd335x-Software-PwrMgmt.pdf"
 			(at 147.32 157.48 0)
 			(effects
 				(font
@@ -12428,6 +12428,33 @@
 			)
 		)
 		(property "Total Price" ""
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OSD3358-512M-ISM"
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Octavo Systems LLC"
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "IC MODULE CORTEX-A8 1GHZ 512MB"
 			(at 147.32 157.48 0)
 			(effects
 				(font
@@ -13480,15 +13507,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN HEADER SMD R/A 2POS 2.54MM"
-			(at 264.16 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Harwin Inc."
 			(at 264.16 134.62 0)
 			(effects
@@ -13499,6 +13517,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "M20-8890245"
+			(at 264.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CONN HEADER SMD R/A 2POS 2.54MM"
 			(at 264.16 134.62 0)
 			(effects
 				(font
@@ -13577,15 +13604,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "CONN HEADER R/A 5POS 2.54MM"
-			(at 313.69 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Samtec Inc."
 			(at 313.69 177.8 0)
 			(effects
@@ -13596,6 +13614,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TSW-105-25-F-S-RA"
+			(at 313.69 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "CONN HEADER R/A 5POS 2.54MM"
 			(at 313.69 177.8 0)
 			(effects
 				(font
@@ -14369,15 +14396,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 231.14 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 231.14 185.42 90)
 			(effects
@@ -14388,6 +14406,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 231.14 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 231.14 185.42 90)
 			(effects
 				(font
@@ -14582,15 +14609,6 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES ARRAY 8 RES 47K OHM 2512"
-			(at 213.36 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "Panasonic Electronic Components"
 			(at 213.36 107.95 90)
 			(effects
@@ -14601,6 +14619,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EXB-A10P473J"
+			(at 213.36 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description / Value" "RES ARRAY 8 RES 47K OHM 2512"
 			(at 213.36 107.95 90)
 			(effects
 				(font
