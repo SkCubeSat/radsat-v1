@@ -5056,7 +5056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 365.76 212.09 0)
 			(effects
 				(font
@@ -5074,7 +5074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 365.76 212.09 0)
 			(effects
 				(font
@@ -5180,7 +5180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 227.33 213.36 0)
 			(effects
 				(font
@@ -5198,7 +5198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 227.33 213.36 0)
 			(effects
 				(font
@@ -5303,7 +5303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -5321,7 +5321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 163.83 168.91 0)
 			(effects
 				(font
@@ -5711,7 +5711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 163.83 168.91 0)
 			(effects
 				(font
@@ -5909,7 +5909,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" ""
+		(property "Description_1" "RES 0603 150 OHM 1% 0.125W AUTO"
+			(at 184.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 184.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT150R-HP"
 			(at 184.15 69.85 0)
 			(effects
 				(font
@@ -6743,7 +6761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 223.52 213.36 0)
 			(effects
 				(font
@@ -6761,7 +6779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 223.52 213.36 0)
 			(effects
 				(font
@@ -6964,7 +6982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 172.72 0)
 			(effects
 				(font
@@ -6982,7 +7000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 280.67 172.72 0)
 			(effects
 				(font
@@ -7311,7 +7329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 165.1 110.49 0)
 			(effects
 				(font
@@ -7329,7 +7347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 165.1 110.49 0)
 			(effects
 				(font
@@ -7434,7 +7452,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" ""
+		(property "Description_1" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
+			(at 156.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 156.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT4K70-HP"
 			(at 156.21 90.17 0)
 			(effects
 				(font
@@ -7632,7 +7668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 275.59 171.45 0)
 			(effects
 				(font
@@ -7650,7 +7686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 275.59 171.45 0)
 			(effects
 				(font
@@ -7756,7 +7792,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" ""
+		(property "Description_1" "RES 0603 4.7 KOHM 1% 0.125W AUTO"
+			(at 160.02 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 160.02 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT4K70-HP"
 			(at 160.02 90.17 0)
 			(effects
 				(font
@@ -7862,7 +7916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 142.24 173.99 0)
 			(effects
 				(font
@@ -7880,7 +7934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 142.24 173.99 0)
 			(effects
 				(font
@@ -7985,7 +8039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 361.95 212.09 0)
 			(effects
 				(font
@@ -8003,7 +8057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 361.95 212.09 0)
 			(effects
 				(font
@@ -9961,7 +10015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 137.16 172.72 0)
 			(effects
 				(font
@@ -9979,7 +10033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 137.16 172.72 0)
 			(effects
 				(font

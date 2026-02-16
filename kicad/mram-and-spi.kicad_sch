@@ -2201,7 +2201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 113.03 69.85 0)
 			(effects
 				(font
@@ -2219,7 +2219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 113.03 69.85 0)
 			(effects
 				(font

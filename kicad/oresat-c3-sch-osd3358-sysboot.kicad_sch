@@ -11126,7 +11126,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" ""
+		(property "Description_1" "RES 0603 120 OHM 1% 0.125W AUTO"
+			(at 148.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 148.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT120R-HP"
 			(at 148.59 90.17 0)
 			(effects
 				(font
@@ -13435,6 +13453,33 @@
 				(hide yes)
 			)
 		)
+		(property "Description_1" "CONN HEADER SMD R/A 2POS 2.54MM"
+			(at 264.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Harwin Inc."
+			(at 264.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "M20-8890245"
+			(at 264.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "512a12fb-06d8-4429-a8bf-4bea7c98f644")
 		)
@@ -13497,6 +13542,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 313.69 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CONN HEADER R/A 5POS 2.54MM"
+			(at 313.69 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samtec Inc."
+			(at 313.69 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TSW-105-25-F-S-RA"
 			(at 313.69 177.8 0)
 			(effects
 				(font

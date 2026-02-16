@@ -16883,7 +16883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 213.36 90)
 			(effects
 				(font
@@ -16901,7 +16901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 267.97 213.36 90)
 			(effects
 				(font
@@ -17453,7 +17453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 119.38 90)
 			(effects
 				(font
@@ -17471,7 +17471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 280.67 119.38 90)
 			(effects
 				(font
@@ -18504,7 +18504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 104.14 90)
 			(effects
 				(font
@@ -18522,7 +18522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 280.67 104.14 90)
 			(effects
 				(font
@@ -18693,7 +18693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 198.12 90)
 			(effects
 				(font
@@ -18711,7 +18711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 267.97 198.12 90)
 			(effects
 				(font
@@ -19195,7 +19195,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" ""
+		(property "Description_1" "RES 0603 20 KOHM 1% 0.125W AUTO"
+			(at 242.57 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole Electronics Inc"
+			(at 242.57 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT20K0-HP"
 			(at 242.57 246.38 90)
 			(effects
 				(font
@@ -19712,7 +19730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 208.28 90)
 			(effects
 				(font
@@ -19730,7 +19748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 267.97 208.28 90)
 			(effects
 				(font
@@ -20868,7 +20886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 111.76 90)
 			(effects
 				(font
@@ -20886,7 +20904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 280.67 111.76 90)
 			(effects
 				(font
@@ -21384,7 +21402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 162.56 86.36 0)
 			(effects
 				(font
@@ -21403,6 +21421,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "CONN HEADER R/A 3POS 2.54MM"
+			(at 162.56 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samtec Inc."
+			(at 162.56 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TSW-103-25-F-S-RA"
 			(at 162.56 86.36 0)
 			(effects
 				(font
@@ -21728,7 +21773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 193.04 90)
 			(effects
 				(font
@@ -21746,7 +21791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 267.97 193.04 90)
 			(effects
 				(font
@@ -22501,7 +22546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 280.67 127 90)
 			(effects
 				(font
@@ -22519,7 +22564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 280.67 127 90)
 			(effects
 				(font
@@ -22748,7 +22793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "RES 10K OHM 1% 1/8W 0603"
+		(property "Description_1" "RES 0603 10 KOHM 1% 0.125W AUTO"
 			(at 267.97 203.2 90)
 			(effects
 				(font
@@ -22766,7 +22811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RNCP0603FTD10K0"
+		(property "Manufacturer_Part_Number" "RMCA0603FT10K0-HP"
 			(at 267.97 203.2 90)
 			(effects
 				(font
