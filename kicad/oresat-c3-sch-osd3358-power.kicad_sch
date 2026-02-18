@@ -10855,7 +10855,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0bc342cc-952c-463d-85f5-a1eb78189e43")
 		(property "Reference" "D8"
@@ -15191,7 +15191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MMBT2907"
+		(property "Manufacturer_Part_Number" "PMBT2907A,235"
 			(at 288.29 132.08 0)
 			(effects
 				(font
@@ -15541,7 +15541,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cedbff0c-ddf9-499b-b887-4847097d0c8f")
 		(property "Reference" "R54"
 			(at 302.26 74.93 0)

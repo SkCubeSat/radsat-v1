@@ -17287,7 +17287,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1ebe13b0-988a-4e8d-a109-825cab29debc")
 		(property "Reference" "D4"
 			(at 290.83 101.6 0)
@@ -17381,7 +17381,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1f9f926e-30a5-4a0f-80bc-b6e85c280897")
 		(property "Reference" "R44"
 			(at 278.13 116.84 90)
@@ -17906,7 +17906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "IS21ES08GA-JQLI-TR"
+		(property "Manufacturer_Part_Number" "IS21ES08GA-JCLI-TR"
 			(at 330.2 175.26 0)
 			(effects
 				(font
@@ -18459,7 +18459,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2eb952fc-5f17-4f1b-87a5-21ab512333f0")
 		(property "Reference" "R42"
 			(at 278.13 101.6 90)
@@ -19806,7 +19806,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "707423f0-f543-4d87-b0e4-3f2cdab477e7")
 		(property "Reference" "D5"
 			(at 290.83 109.22 0)
@@ -20868,7 +20868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d81070c-e6b0-48df-9ab0-89b52bb5adf3")
 		(property "Reference" "R43"
 			(at 278.13 109.22 90)
@@ -21535,7 +21535,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c02d85df-599a-4edd-bfe9-1c4a705baf7a")
 		(property "Reference" "D6"
 			(at 290.83 116.84 0)
@@ -22287,7 +22287,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e0beb065-48ad-4547-9bc5-0daea516e9b2")
 		(property "Reference" "D7"
 			(at 290.83 124.46 0)
@@ -22528,7 +22528,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e87bff48-4154-4dfa-8d0f-18fafaffce61")
 		(property "Reference" "R45"
 			(at 278.13 124.46 90)

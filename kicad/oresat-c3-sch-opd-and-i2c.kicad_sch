@@ -4564,7 +4564,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FM24CL64B-DGTR"
+		(property "Value" "FM24CL64B-GTR"
 			(at 240.6141 77.47 0)
 			(effects
 				(font
@@ -4636,7 +4636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FM24CL64B-DGTR"
+		(property "Manufacturer_Part_Number" "FM24CL64B-GTR"
 			(at 242.57 86.36 0)
 			(effects
 				(font
@@ -5673,7 +5673,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2a9fffbc-7ec7-475a-9b21-3bf4555f60d2")
 		(property "Reference" "R78"
 			(at 166.37 167.64 0)
@@ -6891,7 +6891,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5baf61ef-90e8-4f79-8755-3091666ba96a")
 		(property "Reference" "D12"

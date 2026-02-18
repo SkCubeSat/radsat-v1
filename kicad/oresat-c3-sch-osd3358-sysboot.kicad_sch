@@ -11718,7 +11718,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TCAN330"
+		(property "Value" "TCAN330GDCNR"
 			(at 134.0994 80.01 0)
 			(effects
 				(font
@@ -11791,7 +11791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TCAN330D"
+		(property "Manufacturer_Part_Number" "TCAN330GDCNR"
 			(at 132.08 90.17 0)
 			(effects
 				(font
