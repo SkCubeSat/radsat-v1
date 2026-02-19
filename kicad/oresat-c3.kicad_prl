@@ -5,7 +5,7 @@
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -45,7 +45,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0003f3f4_aa0aa0eb",
+    "visible_layers": "00000000_00000000_0003f3f4_aa0aa0ff",
     "zone_display_mode": 0
   },
   "git": {
