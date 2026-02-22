@@ -13209,12 +13209,6 @@
 		(uuid "c9409461-9915-443b-925e-c34edb417d3f")
 	)
 	(junction
-		(at 125.73 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d190eac0-1810-41b1-b7a7-cb4dbcdc95e0")
-	)
-	(junction
 		(at 274.32 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13255,6 +13249,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffcf3264-d5e5-492e-849d-45570740a648")
+	)
+	(no_connect
+		(at 162.56 180.34)
+		(uuid "0231d8da-e244-4585-a564-e4d5abbab578")
 	)
 	(no_connect
 		(at 162.56 109.22)
@@ -13742,16 +13740,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 200.66) (xy 162.56 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28ce9559-2977-471b-a078-8147115a231f")
-	)
-	(wire
-		(pts
 			(xy 127 116.84) (xy 162.56 116.84)
 		)
 		(stroke
@@ -13902,7 +13890,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 200.66) (xy 125.73 200.66)
+			(xy 147.32 200.66) (xy 162.56 200.66)
 		)
 		(stroke
 			(width 0)
@@ -14789,16 +14777,6 @@
 			(type default)
 		)
 		(uuid "9cbf865a-bd4c-4171-b2a4-a6160a5e2591")
-	)
-	(wire
-		(pts
-			(xy 125.73 180.34) (xy 125.73 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e061bab-90fc-4755-8af6-da3e5e361331")
 	)
 	(wire
 		(pts
@@ -15792,16 +15770,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 180.34) (xy 162.56 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f44fb4cf-a1ea-485c-ba50-5f9d4ce91768")
-	)
-	(wire
-		(pts
 			(xy 55.88 152.4) (xy 55.88 153.67)
 		)
 		(stroke
@@ -16363,7 +16331,7 @@
 	)
 	(global_label "GPIO4"
 		(shape output)
-		(at 116.84 200.66 180)
+		(at 147.32 200.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16373,7 +16341,7 @@
 		)
 		(uuid "50e30224-5f2f-4224-9f2b-545d7c1ac5c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.17 200.66 0)
+			(at 138.65 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
