@@ -13251,10 +13251,6 @@
 		(uuid "ffcf3264-d5e5-492e-849d-45570740a648")
 	)
 	(no_connect
-		(at 162.56 180.34)
-		(uuid "0231d8da-e244-4585-a564-e4d5abbab578")
-	)
-	(no_connect
 		(at 162.56 109.22)
 		(uuid "421025bb-62fc-4002-a128-cebef15e9b22")
 	)
@@ -13301,6 +13297,10 @@
 	(no_connect
 		(at 223.52 101.6)
 		(uuid "91a7ead5-0886-4aa5-9ebc-9b0bbdc761dc")
+	)
+	(no_connect
+		(at 162.56 200.66)
+		(uuid "96009139-ece3-4714-a74c-4553ca6c9cf0")
 	)
 	(no_connect
 		(at 154.94 185.42)
@@ -13890,7 +13890,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 200.66) (xy 162.56 200.66)
+			(xy 116.84 200.66) (xy 125.73 200.66)
 		)
 		(stroke
 			(width 0)
@@ -14777,6 +14777,16 @@
 			(type default)
 		)
 		(uuid "9cbf865a-bd4c-4171-b2a4-a6160a5e2591")
+	)
+	(wire
+		(pts
+			(xy 125.73 180.34) (xy 125.73 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e061bab-90fc-4755-8af6-da3e5e361331")
 	)
 	(wire
 		(pts
@@ -15770,6 +15780,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 180.34) (xy 162.56 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f44fb4cf-a1ea-485c-ba50-5f9d4ce91768")
+	)
+	(wire
+		(pts
 			(xy 55.88 152.4) (xy 55.88 153.67)
 		)
 		(stroke
@@ -16331,7 +16351,7 @@
 	)
 	(global_label "GPIO4"
 		(shape output)
-		(at 147.32 200.66 180)
+		(at 116.84 200.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16341,7 +16361,7 @@
 		)
 		(uuid "50e30224-5f2f-4224-9f2b-545d7c1ac5c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.65 200.66 0)
+			(at 108.17 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
