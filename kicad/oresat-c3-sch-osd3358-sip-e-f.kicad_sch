@@ -7564,7 +7564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "OSD3358-512M-BSM"
+		(property "MPN" "OSD3358-512M-ISM"
 			(at 218.44 83.82 0)
 			(effects
 				(font
@@ -8838,7 +8838,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "OSD3358-512M-BSM"
+		(property "MPN" "OSD3358-512M-ISM"
 			(at 217.17 -11.43 0)
 			(effects
 				(font
